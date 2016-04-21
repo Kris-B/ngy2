@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: home
+  url: /
+
+- title: blog
+  url: /blog/
+
+- title: demos
+  url: /examples/index.html
+
+- title: first steps
+  url: /first_steps/
+
+- title: options
+  url: /options/
+
+- title: api
+  url: /api_callbacks/
+
+- title: plugins
+  url: /plugins/
+
+- title: about
+  url: /about/
+

@@ -1,0 +1,22 @@
+# navigation in demo pages
+
+- title: Main
+  url: /examples/index.html
+
+- title: Demo2
+  url: /examples/demo2.html
+
+- title: Demo3
+  url: /examples/demo3.html
+
+- title: First steps
+  url: /first_steps/
+
+- title: Options
+  url: /options/
+
+- title: API
+  url: /api_callbacks/
+
+- title: About
+  url: /about/

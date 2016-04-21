@@ -1,0 +1,107 @@
+/* Theme for nanoTOC by Christophe Brisbois */
+
+/**************************************/
+/* MAIN CONTAINER                     */
+/**************************************/
+
+/* Sidebar for the table of content */
+#nanoTOC_sidebar {
+  display:inline-block;
+  vertical-align: top;
+  margin:0;
+  padding:0;
+}
+
+
+/* Table Of Content */
+#nanoTOC_toc {
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-left-color: #5b5;
+  padding-left: 10px;
+  margin-left: 5px;
+  /*box-sizing: border-box;*/
+}
+
+#nanoTOC_toc a{
+  text-decoration: none;
+  padding-left: 7px;
+}
+
+#nanoTOC_toc .nanotocActive {
+  font-weight: bold;
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-left-color: #5b5;
+  padding-left: 5px;
+}
+
+#nanoTOC_sidebar ul {
+  list-style-type: none;
+  padding-left: 0px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+#nanoTOC_sidebar li {
+  list-style-type: none;
+  padding-left: 0px;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+#nanoTOC_toc.fixed {
+  position: fixed;
+  overflow-y: auto;
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+#nanoTOC_toc::-webkit-scrollbar {
+  height: 5px;
+  width: 5px;
+}
+#nanoTOC_toc::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.26);
+} 
+
+/* Table Of Content - Levels */
+
+#nanoTOC_toc .nanotocLevel1 {
+  padding-left: 0px;
+}
+#nanoTOC_toc .nanotocLevel2 {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+#nanoTOC_toc .nanotocLevel3 {
+  padding-left: 0px;
+}
+#nanoTOC_toc .nanotocLevel4 {
+  padding-left: 10px;
+}
+
+#nanoTOC_toc .nanotocLevel1 a {
+  color: #333;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#nanoTOC_toc .nanotocLevel2 a {
+  color: #555;
+  font-size: 1em;
+  text-transform: none;
+  font-weight: bold;
+}
+#nanoTOC_toc .nanotocLevel3 a {
+  color: #555;
+  font-size: 0.9em;
+  text-transform: none;
+  font-weight: normal;
+}
+#nanoTOC_toc .nanotocLevel4 a {
+  color: #555;
+  font-size: 0.9em;
+  text-transform: none;
+  font-weight: normal;
+}
+

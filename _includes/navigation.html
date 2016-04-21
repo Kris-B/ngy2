@@ -1,0 +1,75 @@
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" classXXX="animated drop">
+	    <ul>
+	   <!--
+	    <li class="name" style="margin-right:30px"><a href="{{ site.url }}" style="text-align: center;color:#fff;font-size: 1.0625rem;font-family:Oswald;text-transform:none;">nano<span style="color:#6e6;font-family:Oswald;">GALLERY</span></a></li>
+	    -->
+	    <li class="name" style="margin:0 30px">
+	      <!-- <a href="{{ site.url }}" style="margin:0px;padding:0px;display:inline-block;border-top:1px solid white;border-bottom:1px solid white;text-align:center;color:#fff;font-family:Oswald;font-weight:normal;text-transform:none;">
+          nGY<span style="color:#6e6;font-family:Oswald;font-weight:normal;">2</span>
+	      </a> -->
+	      <a href="{{ site.url }}/" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/nanogallery2s.svg" alt="{{ site.title }}" style="width:50px;vertical-align:baseline;"></a>
+	    </li>
+	    
+
+      {% for link in site.data.navigation %}
+		    {% if link.url contains 'http' %}
+		        {% assign domain = '' %}
+		        {% else %}
+		        {% assign domain = site.url %}
+		    {% endif %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		  {% endfor %}
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+
+{% include browser-upgrade.html %}
+
+{% if page.image.feature %}<header class="masthead" id="header">
+	{% if site.logo != null %}
+		<div class="wrap site-logo">
+			<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+		</div>
+	{% endif %}
+
+
+</header><!-- /.masthead -->
+{% else %}<header class="masthead">
+	<div class="wrap">
+    <!--
+      {% if site.logo != null %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+      {% endif %}
+      <h1 class="site-title animated fadeIn"><a href="{{ site.url }}/">{{ site.title }}</a></h1>
+		  <h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
+		  -->
+		  
+      {% if page.display_logo %}
+        <!-- <h1 style="margin:0px;padding:5px;display:inline-block;border-top:1px solid white;border-bottom:1px solid white;text-align:center;color:#fff;font-family:Oswald;font-weight:normal;">n&nbsp;&nbsp;a&nbsp;&nbsp;n&nbsp;&nbsp;o&nbsp;&nbsp;G&nbsp;&nbsp;A&nbsp;&nbsp;L&nbsp;&nbsp;L&nbsp;&nbsp;E&nbsp;&nbsp;R&nbsp;&nbsp;Y&nbsp;&nbsp;<span style="color:#6e6;font-family:Oswald;font-weight:normal;">2</span></h1> -->
+        <!-- <h1 style="margin:0px;padding:5px;display:inline-block;border-top:1px solid white;border-bottom:1px solid white;text-align:center;color:#fff;font-family:Oswald;font-weight:normal;letter-spacing: 15px;">&nbsp;nanoGALLERY<span style="color:#6e6;font-family:Oswald;font-weight:normal;">2</span></h1> -->
+        <!-- <a href="{{ site.url }}/" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/logo1.png" alt="{{ site.title }} logo"></a> -->
+        <a href="{{ site.url }}/" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/nanogallery2.svg" alt="{{ site.title }}" style="width:350px"></a>
+        <br><br><br>
+      {% endif %}
+
+		  
+      <h3 style="text-align:center;font-size:1.3rem;"><span style="color:#fff;">{{ page.title }}</span></h3>
+      <!-- <h2>&nbsp;</h2><br> -->
+      {% if page.description %}
+      <p style="text-align: center;color:#fff;font-size:1.2rem;">
+        {{ page.description }}
+      </p>
+      {% endif %}
+		  
+		  
+		  
+		  
+		  
+    <div id="nanoGalleryHead" style="visibility:hidden;"></div><br>
+	</div>
+</header><!-- /.masthead -->{% endif %}
+
+<div class="js-menu-screen menu-screen"></div>
+<br>

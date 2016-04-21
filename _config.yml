@@ -1,0 +1,59 @@
+# Site wide configuration
+
+title: nanoGALLERY
+locale: en_US
+description: image gallery for your website.
+logo: site-logo.png
+search: false
+url: http://brisbois.fr/ngy
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+  use_coderay: false
+  input: GFM
+
+
+mathjax: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+
+# Site owner
+owner:
+  name: Christophe Brisbois
+  avatar: bio-photo.jpg
+  email: nano@brisbois.fr
+  disqus-shortname: Kris__B
+  twitter: #username
+  facebook: #username
+  github: Kris-B
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: kris_b
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: ChristopheBrisbois
+    analytics: UA-39069349-8
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
