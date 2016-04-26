@@ -29,23 +29,18 @@ Javascript skeleton:
       NGY2Tools.PreloaderDisplay(G, false);
       
       /* SCRIPT TO PARSE DATA */
-      var nb=O;
       jQuery.each(sourceContent, function(i, oneContent){
         var itemTitle = oneContent.title;
         var itemDescription = oneContent.desc;
         var itemKind = 'image';
-        if( oneContent.image ) {
-          nb++;
-        }
-        else {
+        if( !oneContent.image ) {
           itemKind = 'album';
         }
         var itemID = oneContent.ID;
         var newItem = NGY2Item.New( G, itemTitle, itemDescription, itemID, albumID, itemKind );
-        newItem.imageNumber=nb;
-        
-        newItem.src = ... ;
-        newItem.thumbs = ... ;
+
+        newItem.imageSet( G, oneContent.imageURL, oneContent.imageWidth, oneContent.imageHeight );
+        newItem.thumbSet( G,  oneContent.thumbnailURL, oneContent.thumbnailWith, oneContent.thumbnailHieght );
 
       });
       G.I[NGY2Item.GetIdx(G, albumID);].contentIsLoaded=true;
