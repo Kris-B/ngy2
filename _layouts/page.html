@@ -19,9 +19,13 @@
     <div class="entry-wrapper">
       <div class="entry-content">
         {{ content }}
+        
+        d1
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
+          D2
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
+          D3
         {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
