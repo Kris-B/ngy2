@@ -49,11 +49,11 @@ JQUERY is only to be included, if not already present in your page.
     </script>
   </body>
 {% endhighlight %}
-
+  
 ------------------
 
 ### Example
-Here's a full HTML template:
+Here's a full working HTML template.
 
 {% highlight javascript %}
 <!doctype html>
