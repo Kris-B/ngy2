@@ -55,9 +55,9 @@ JQUERY is only to be included, if not already present in your page.
 Result:
 
 <div id="myNanoGalleryDemo">
-  <a href="C4FV77ovIBM" data-ngthumb="C4FV77ovIBM/200x300">Title Image1</a>
+  <a href="C4FV77ovIBM" data-ngthumb="C4FV77ovIBM/300x200">Title Image1</a>
   <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/267x200" data-ngdesc="Image 2 description">Title Image2</a>
-  <a href="-icmOdYWXuQ" data-ngthumb="-icmOdYWXuQ/200x300" data-ngdesc="Description 3">Title Image3</a>
+  <a href="-icmOdYWXuQ" data-ngthumb="-icmOdYWXuQ/300x200" data-ngdesc="Description 3">Title Image3</a>
 </div>
 
 
