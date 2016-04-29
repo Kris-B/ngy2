@@ -64,29 +64,19 @@ Result:
 <script>
   $(document).ready(function () {
     jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
-
-          itemsBaseURL:'https://source.unsplash.com/',
-
-
+      itemsBaseURL:'https://source.unsplash.com/',
       thumbnailWidth:'auto', thumbnailHeight:200,
-      //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
-      //thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
-      //thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la250 xl290',
-      thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', 'duration':400},{'name':'descriptionAppear', 'duration':1000}],
-      
+      thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75',           'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       viewerDisplayLogo:true,
-      imageTransition : 'slide',
-      galleryToolbarWidthAligned:false,
-      thumbnailLabel:{display:false,align:'center', position:'overImageOnMiddle'},
+      // imageTransition : 'slide',
       thumbnailL1Label:{display:true,align:'center', position:'overImageOnMiddle'},
-      touchAnimationL1: true,
-      touchAnimation:false,
+      //touchAnimationL1: true,
       i18n:{
         thumbnailImageDescription:'view photo', thumbnailImageDescription_FR:'afficher photo',
         thumbnailAlbumDescription:'open gallery', thumbnailAlbumDescription_FR:'ouvrir galerie'
       },
       viewerToolbar: { standard:'minimizeButton,pageCounter,playPauseButton,linkOriginalButton,label', autoMinimize:5000 },
-      galleryFullpageButton:false
+      //galleryFullpageButton:false
     });
   });  
 </script>
