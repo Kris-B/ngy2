@@ -65,7 +65,7 @@ Result:
   $(document).ready(function () {
     jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
 
-          itemsBaseURL:'https://source.unsplash.com/'
+          itemsBaseURL:'https://source.unsplash.com/',
 
 
       //thumbnailWidth:300, thumbnailHeight:200,
