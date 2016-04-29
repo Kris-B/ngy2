@@ -54,30 +54,27 @@ JQUERY is only to be included, if not already present in your page.
 
 Result:
 
-<div id="myID"></div>
+<div id="myNanoGalleryDemo">
+  <a href="rMmibFe4czY" data-ngthumb="rMmibFe4czY/200x300">Title Image1</a>
+  <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/200x300" data-ngdesc="Image 2 description">Title Image2</a>
+  <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/200x300" data-ngdesc="Description 3">Title Image3</a>
+</div>
 
 
 <script>
   $(document).ready(function () {
-    jQuery("#myID").css('visibility','visible').nanoGallery({
+    jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
 
-      kind: 'picasa',
-      userID:'111186676244625461692',
-      blackList:'profil|scrapbook|Forhomepage',
-      
+          itemsBaseURL:'https://source.unsplash.com/'
+
+
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
       thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
       thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la250 xl290',
       thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', 'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       
-      //maxWidth:948,
-      //thumbnailHoverEffect:'labelSlideUpTop,borderLighter',
-      //thumbnailHoverEffect:'borderLighter',
-      paginationMaxLinesPerPage:1,
       viewerDisplayLogo:true,
-      photoSorting:'random',
-      albumSorting:'random',
       imageTransition : 'slide',
       galleryToolbarWidthAligned:false,
       thumbnailLabel:{display:false,align:'center', position:'overImageOnMiddle'},
@@ -89,11 +86,7 @@ Result:
         thumbnailAlbumDescription:'open gallery', thumbnailAlbumDescription_FR:'ouvrir galerie'
       },
       viewerToolbar: { standard:'minimizeButton,pageCounter,playPauseButton,linkOriginalButton,label', autoMinimize:5000 },
-      galleryFullpageButton:true,
-      supportIE8: false,
-      paginationDots: true,
-      locationHash:true,
-      breadcrumbAutoHideTopLevel:true
+      galleryFullpageButton:false
     });
   });  
 </script>
