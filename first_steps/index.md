@@ -55,9 +55,9 @@ JQUERY is only to be included, if not already present in your page.
 Result:
 
 <div id="myNanoGalleryDemo">
-  <a href="rMmibFe4czY" data-ngthumb="rMmibFe4czY/200x300">Title Image1</a>
-  <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/200x300" data-ngdesc="Image 2 description">Title Image2</a>
-  <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/200x300" data-ngdesc="Description 3">Title Image3</a>
+  <a href="C4FV77ovIBM" data-ngthumb="C4FV77ovIBM/200x300">Title Image1</a>
+  <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/267x200" data-ngdesc="Image 2 description">Title Image2</a>
+  <a href="-icmOdYWXuQ" data-ngthumb="-icmOdYWXuQ/200x300" data-ngdesc="Description 3">Title Image3</a>
 </div>
 
 
@@ -68,10 +68,10 @@ Result:
           itemsBaseURL:'https://source.unsplash.com/',
 
 
-      //thumbnailWidth:300, thumbnailHeight:200,
+      thumbnailWidth:'auto', thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
-      thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
-      thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la250 xl290',
+      //thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
+      //thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la250 xl290',
       thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', 'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       
       viewerDisplayLogo:true,
