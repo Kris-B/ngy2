@@ -68,15 +68,11 @@ Result:
       thumbnailWidth:'auto', thumbnailHeight:200,
       thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75',           'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       viewerDisplayLogo:true,
-      // imageTransition : 'slide',
       thumbnailL1Label:{display:true,align:'center', position:'overImageOnMiddle'},
-      //touchAnimationL1: true,
       i18n:{
         thumbnailImageDescription:'view photo', thumbnailImageDescription_FR:'afficher photo',
         thumbnailAlbumDescription:'open gallery', thumbnailAlbumDescription_FR:'ouvrir galerie'
-      },
-      viewerToolbar: { standard:'minimizeButton,pageCounter,playPauseButton,linkOriginalButton,label', autoMinimize:5000 },
-      //galleryFullpageButton:false
+      }
     });
   });  
 </script>
