@@ -87,7 +87,7 @@ Here's a full working HTML template.
       jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
         itemsBaseURL:'https://source.unsplash.com/',
         thumbnailWidth:'auto', thumbnailHeight:200,
-        thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75',           'duration':400},{'name':'descriptionAppear', 'duration':1000}],
+        thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', duration':400},{'name':'descriptionAppear', 'duration':1000}],
         viewerDisplayLogo:true,
         thumbnailL1Label:{display:true,align:'center', position:'overImageOnMiddle'},
         i18n:{
