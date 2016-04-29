@@ -1,10 +1,7 @@
 ---
-layout: page
+layout: documentation
 title: Options and Parameters
 ---
-
-Table of Contents
-{:toc}
 
 # Options
 
