@@ -3,6 +3,8 @@ layout: documentation
 title: Options and Parameters
 ---
 
+Table of Contents {:toc}
+
 # Options
 
 nanoGALLERY2 is highly customizable and fully adjustable to suit your needs, without coding.  
