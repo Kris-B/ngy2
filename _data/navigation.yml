@@ -20,6 +20,9 @@
 
 - title: plugins
   url: /plugins/
+  
+- title: usage
+  url: /wf/
 
 - title: about
   url: /about/
