@@ -1,8 +1,15 @@
 ---
 layout: page
 title: First steps
+category: firststeps
 ---
 <br>
+
+<h4>Select a method:</h4>
+{% for post in site.categories.firststeps %} 
+  <a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
+{% endfor %}
+  
 
 ### First steps
 
