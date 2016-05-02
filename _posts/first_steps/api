@@ -8,3 +8,9 @@ comments: false
 
 
 API
+
+
+<h4>Select a method:</h4>
+{% for post in site.categories.firststeps %} 
+  <a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
+{% endfor %}
