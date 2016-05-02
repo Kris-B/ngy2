@@ -6,13 +6,13 @@ title: First steps
 
 ### First steps
 
-Follow these simple steps to add a gallery to your page.
+Follow these simple steps to add a gallery to your page. We'll first use the inline method.
   
   
 #### 1. Get the script
-- from Github : [here](https://github.com/Kris-B/nanoGALLERY/archive/v5.9.1.zip)
-- from npm: ```npm install nanogallery```
-- or use the CDN version : [CDNJS](https://cdnjs.com/libraries/nanogallery)  
+- from [Github](https://github.com/Kris-B/nanoGALLERY/archive/v5.9.1.zip)  
+- from npm: ```npm install nanogallery```  
+- or use the [CDN](https://cdnjs.com/libraries/nanogallery) version  
  
 #### 2. Include it in the ```<head>``` of your page
 
