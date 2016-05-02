@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First steps
-category: firststeps
+categories: firststeps
 ---
 <br>
 
