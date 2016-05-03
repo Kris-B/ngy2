@@ -62,10 +62,9 @@ search_omit: true
 <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start uisng nGY2</a>
 <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
 <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
-
-
-<br><br><br>
-### Recent blog posts:
+  
+  
+### Recent blog posts  
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
