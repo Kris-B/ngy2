@@ -38,7 +38,7 @@ jQUERY must be included, if not already present in your page.
 
 #### 3. Setup your HTML and initialize the nanoGALLERY script
 
-{% highlight javascript %}
+~~~ javascript
   <body>
     <!-- THE MARKUP -->
     <div id="myNanoGallery">
@@ -56,7 +56,7 @@ jQUERY must be included, if not already present in your page.
       });
     </script>
   </body>
-{% endhighlight %}
+~~~
 
   
 ------------------
@@ -64,7 +64,7 @@ jQUERY must be included, if not already present in your page.
 ### Example
 Here's a full working HTML template.
 
-{% highlight javascript %}
+~~~ javascript
 <!doctype html>
 <html lang="en">
 <head>
@@ -108,7 +108,7 @@ Here's a full working HTML template.
   </script>
 </body>
 </html>
-{% endhighlight %}
+~~~
 
 ### Result:
 
