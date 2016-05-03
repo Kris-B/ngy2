@@ -65,7 +65,7 @@ search_omit: true
 
 
 <br><br><br>
-<span>Recent blog posts:</span>
+### Recent blog posts:
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
