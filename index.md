@@ -55,11 +55,9 @@ search_omit: true
 ### Download nanoGALLERY2
 
 > ZIP  
+> github  
+> CDN  
 
-github  
-CDN  
-
-<br>
 
 <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start uisng nGY2</a>
 <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
