@@ -24,7 +24,7 @@ Follow these simple steps to add a gallery to your page. We'll first use the inl
  
 #### 2. Include it in the ```<head>``` of your page
 
-{% highlight javascript %}
+~~~ javascript
   <head>
     <!-- jQuery -->
     <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -56,7 +56,7 @@ jQUERY must be included, if not already present in your page.
       });
     </script>
   </body>
-{% endhighlight %}
+~~~
   
 ------------------
 
