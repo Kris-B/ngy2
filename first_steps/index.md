@@ -33,7 +33,7 @@ Follow these simple steps to add a gallery to your page. We'll first use the inl
     <link href="css/nanogallery.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="jquery.nanogallery.min.js"></script>
   </head>
-{% endhighlight %}
+~~~
 jQUERY must be included, if not already present in your page.
 
 #### 3. Setup your HTML and initialize the nanoGALLERY script
@@ -56,7 +56,8 @@ jQUERY must be included, if not already present in your page.
       });
     </script>
   </body>
-~~~
+{% endhighlight %}
+
   
 ------------------
 
