@@ -52,8 +52,8 @@ search_omit: true
   });  
 </script>
 
-> ### Download nanoGALLERY2
->  
+### Download nanoGALLERY2
+
 > ZIP  
 > github  
 > CDN  
