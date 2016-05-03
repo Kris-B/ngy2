@@ -65,7 +65,7 @@ search_omit: true
   
   
 ### Recent blog posts  
-
+  
 <ul class="post-list">
 {% for post in site.categories.blog %} 
   <!-- <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li> -->
@@ -75,7 +75,9 @@ search_omit: true
   
   
 ### Your comments
-
+  
+  
+  
 <div id="wpac-comment"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
@@ -91,9 +93,9 @@ wpac_init.push({widget: 'Comment', id: 223});
 })();
 </script>
 <a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
-
-
-
+  
+  
+  
 <a class="muut" href="https://muut.com/i/nanostudio/comments" type="dynamic">nanostudio</a>
 <script src="//cdn.muut.com/1/moot.min.js"></script>
 
