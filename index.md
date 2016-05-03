@@ -74,3 +74,9 @@ search_omit: true
 </ul>
 
 ### Your comments
+
+<a class="muut" href="https://muut.com/i/nanostudio/comments" type="dynamic">nanostudio</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>
+
+### or  
+
