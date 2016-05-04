@@ -74,28 +74,8 @@ search_omit: true
 </ul>
   
   
-### Your comments
-  
-  
-  
-<div id="wpac-comment"></div>
-<script type="text/javascript">
-wpac_init = window.wpac_init || [];
-wpac_init.push({widget: 'Comment', id: 223});
-(function() {
-    if ('WIDGETPACK_LOADED' in window) return;
-    WIDGETPACK_LOADED = true;
-    var mc = document.createElement('script');
-    mc.type = 'text/javascript';
-    mc.async = true;
-    mc.src = 'https://app.widgetpack.com/widget.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
-})();
-</script>
-<a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
-  
-  
-### Your review
+### Your review  
+Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, documentation, customizability, design, implementation...
 
 <div id="wpac-review"></div>
 <script type="text/javascript">
@@ -112,12 +92,4 @@ wpac_init.push({widget: 'Review', id: 223});
 })();
 </script>
 <a href="https://widgetpack.com" class="wpac-cr">Reviews System WIDGET PACK</a>
-
-
-
-  
-<a class="muut" href="https://muut.com/i/nanostudio/comments" type="dynamic">nanostudio</a>
-<script src="//cdn.muut.com/1/moot.min.js"></script>
-
-### or  
 
