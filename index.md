@@ -64,6 +64,7 @@ search_omit: true
 <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
   
 #  
+
 ### Recent blog posts  
   
 <ul class="post-list">
@@ -74,6 +75,7 @@ search_omit: true
 </ul>
   
 #  
+
 ### Your review  
 Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, documentation, customizability, design, implementation...
 
