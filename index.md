@@ -52,7 +52,7 @@ search_omit: true
   });  
 </script>
 
-### Download nanoGALLERY2
+### Get nanoGALLERY2
 
 > ZIP  
 > github  
