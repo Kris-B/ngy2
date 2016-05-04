@@ -63,7 +63,7 @@ search_omit: true
 <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
 <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
   
-#  
+<br><br><br> 
 
 ### Recent blog posts  
   
@@ -74,7 +74,7 @@ search_omit: true
 {% endfor %}
 </ul>
   
-#  
+<br><br><br>
 
 ### Your review  
 Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, documentation, customizability, design, implementation...
