@@ -40,7 +40,7 @@
     color: $nanogreen;
   }
 }
-.btnWhite, .btnWhite div {
+.btnWhite {
   display: inline-block;
   margin-bottom: 20px;
   padding: 8px 20px;
@@ -56,6 +56,9 @@
     background-color: #ddd;
     color: $nanogreen;
   }
+}
+.btnWhite div {
+  color: $nanogreen;
 }
 /*
    Close button
