@@ -52,6 +52,7 @@ search_omit: true
   });  
 </script>
 
+<br><br> 
 
 > <nav class="pagination" role="navigation">
 > <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
@@ -60,7 +61,7 @@ search_omit: true
 > </nav>
 
   
-  
+<br><br><br> 
   
 ### Get nanoGALLERY2
 
