@@ -57,8 +57,15 @@ search_omit: true
 
 
 {% include btn-image.html url="images/iconmonstr-download-14.svg" description="download zip" %}
-{% include btn-image.html url="iconmonstr-github-1" description="github" %}
+{% include btn-image.html url="images/iconmonstr-github-1.svg" description="github" %}
 {% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
+
+<nav class="pagination" role="navigation">
+{% include btn-image.html url="images/iconmonstr-download-14.svg" description="download zip" %}
+{% include btn-image.html url="images/iconmonstr-github-1.svg" description="github" %}
+{% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
+</nav>
+
 
 
 <nav class="pagination" role="navigation">
