@@ -56,7 +56,7 @@ search_omit: true
 
 
 
-{% include btn_image.html url="{{ site.url }}/images/iconmonstr-cloud-23.svg" description="CDN link" %}
+{% include btn-image.html url="{{ site.url }}/images/iconmonstr-cloud-23.svg" description="CDN link" %}
 
 
 <nav class="pagination" role="navigation">
