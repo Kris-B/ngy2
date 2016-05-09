@@ -68,8 +68,9 @@ search_omit: true
   {% include btn-image.html url="images/iconmonstr-github-1.svg" description="view on github" %}
 </nav>
 
-NPM: {% highlight javascript %} npm: npm install nanogallery {% endhighlight %}
-CDN Link (copy/paste this code into your HTML):  
+npm: 
+{% highlight javascript %} npm install nanogallery {% endhighlight %}
+CDN Link:  
 {% highlight javascript %}
     <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
