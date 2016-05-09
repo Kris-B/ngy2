@@ -46,14 +46,14 @@
   padding: 8px 20px;
   @include font-size(18);
   background-color: $white;
-  color: $white;
+  color: $nanogreen;
   border: 2px solid $black !important;
   border-radius: $border-radius;
   &:visited {
     color: $nanogreen;
   }
   &:hover {
-    background-color: $white;
+    background-color: #ddd;
     color: $nanogreen;
   }
 }
