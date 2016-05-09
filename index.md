@@ -59,7 +59,9 @@ search_omit: true
 > <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
 > </nav>
 
-
+  
+  
+  
 ### Get nanoGALLERY2
 
 <nav class="pagination" role="navigation">
@@ -70,7 +72,7 @@ search_omit: true
 
 npm: 
 {% highlight javascript %} npm install nanogallery {% endhighlight %}
-CDN Link:  
+CDN link:  
 {% highlight javascript %}
     <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
