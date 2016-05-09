@@ -75,11 +75,11 @@ search_omit: true
 > <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
 > ~~~
 
-<nav class="pagination" role="navigation">
-<a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
-<a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
-<a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
-</nav>
+> <nav class="pagination" role="navigation">
+> <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
+> <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
+> <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
+> </nav>
   
 <br><br><br> 
 
