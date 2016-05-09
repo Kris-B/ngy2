@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First steps
+title: Quick start
 categories: firststeps
 ---
 <br>
