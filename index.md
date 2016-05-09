@@ -63,7 +63,12 @@ search_omit: true
 
 # -  
 
-<a markdown="0" class="btnWhite" href="{{ site.url }}/first_steps/"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN</a>
+<a markdown="0" class="btnWhite" href="{{ site.url }}/first_steps/">
+  <div style="text-align=center;">
+    <img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">
+    CDN
+  </div>
+</a>
 <a markdown="0" class="btnWhite" href="{{ site.url }}/first_steps/"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN</a>
 
 > ZIP  
