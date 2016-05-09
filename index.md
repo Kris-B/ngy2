@@ -56,34 +56,19 @@ search_omit: true
 
 
 
+<nav class="pagination" role="navigation">
 {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
 {% include btn-image.html url="images/iconmonstr-github-1.svg" description="github" %}
-{% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
-
-<nav class="pagination" role="navigation">
-{% include btn-image.html url="images/iconmonstr-download-14.svg" description="download zip" %}
-{% include btn-image.html url="images/iconmonstr-github-1.svg" description="github" %}
-{% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
 </nav>
 
+> <nav class="pagination" role="navigation">
+> {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
+> {% include btn-image.html url="images/iconmonstr-github-1.svg" description="github" %}
+> </nav>
 
 
-<nav class="pagination" role="navigation">
-<a href="{{ site.url }}/" title="download"><img src="{{ site.url }}/images/iconmonstr-download-14.svg" alt="download" style="width:80px;vertical-align:baseline;"><br>Download zip</a>
-<a href="{{ site.url }}/" title="github"><img src="{{ site.url }}/images/iconmonstr-github-1.svg" alt="github" style="width:80px;vertical-align:baseline;"><br>View on github</a>
-<a href="{{ site.url }}/" title="CDN"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;"><br>CDN Link</a>
-</nav>
-
-# -  
+{% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
   
-<a class="btnWhite" href="{{ site.url }}/first_steps/"><div style="text-align:center;"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;"><span>CDN</span></div></a>
-  
-<a class="btnWhite" href="{{ site.url }}/first_steps/"><div style="text-align:center;">
-![]({{ site.url }}/images/iconmonstr-cloud-23.svg)
-*CDN*
-</a>  
-  
-<a markdown="0" class="btnWhite" href="{{ site.url }}/first_steps/"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN</a>
 
 > ZIP  
 > github  
