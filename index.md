@@ -59,10 +59,10 @@ search_omit: true
 > CDN  
 > CDN Link  
 > Copy/paste this code into your HTML:  
-> {% endhighlight %}
+> ~~~ javascript
 > <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
 > <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
-> {% endhighlight %}
+> ~~~
 
 <nav class="pagination" role="navigation">
 <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
