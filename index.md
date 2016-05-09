@@ -72,7 +72,9 @@ search_omit: true
 </nav>
 
 npm: 
-{% highlight javascript %} npm install nanogallery {% endhighlight %}
+{% highlight javascript %}
+    npm install nanogallery
+{% endhighlight %}
 CDN link:  
 {% highlight javascript %}
     <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
