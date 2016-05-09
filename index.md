@@ -55,9 +55,11 @@ search_omit: true
 ### Get nanoGALLERY2
 
 
-<a href="{{ site.url }}/" rel="home" title="dwonload"><img src="{{ site.url }}/images/iconmonstr-download-14.svg" alt="download" style="width:100px;vertical-align:baseline;"></a>
-<a href="{{ site.url }}/" rel="home" title="dwonload"><img src="{{ site.url }}/images/iconmonstr-github-1.svg" alt="download" style="width:100px;vertical-align:baseline;"></a>
-<a href="{{ site.url }}/" rel="home" title="dwonload"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="download" style="width:100px;vertical-align:baseline;"></a>
+<nav class="pagination" role="navigation">
+<a href="{{ site.url }}/" title="download"><img src="{{ site.url }}/images/iconmonstr-download-14.svg" alt="download" style="width:80px;vertical-align:baseline;">Download zip</a>
+<a href="{{ site.url }}/" title="github"><img src="{{ site.url }}/images/iconmonstr-github-1.svg" alt="github" style="width:80px;vertical-align:baseline;">View on github</a>
+<a href="{{ site.url }}/" title="CDN"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN Link</a>
+</nav>
 
 > ZIP  
 > github  
