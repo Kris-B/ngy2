@@ -60,10 +60,15 @@ search_omit: true
 
 <nav class="pagination" role="navigation">
       
-<a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start uisng nGY2</a>
+<a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
 <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
 <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
-
+CDN Link  
+Copy/paste this code into your HTML:  
+```
+<link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
+```
 </nav>
   
 <br><br><br> 
@@ -80,7 +85,7 @@ search_omit: true
 <br><br><br>
 
 ### Your review  
-Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, documentation, customizability, design, implementation...
+Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, ease of use, documentation, customizability, design, implementation, support...
 
 <div id="wpac-review"></div>
 <script type="text/javascript">
