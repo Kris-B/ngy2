@@ -52,34 +52,28 @@ search_omit: true
   });  
 </script>
 
-### Get nanoGALLERY2
-
-
-
-<nav class="pagination" role="navigation">
-  {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
-  {% include btn-image.html url="images/iconmonstr-github-1.svg" description="view on github" %}
-</nav>
-
-
-{% include btn-image.html url="images/iconmonstr-cloud-23.svg" description="CDN link" %}
-  
-
-> ZIP  
-> github  
-> CDN  
-> CDN Link  
-> Copy/paste this code into your HTML:  
-> ~~~ javascript
-> <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
-> <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
-> ~~~
 
 > <nav class="pagination" role="navigation">
 > <a markdown="0" class="btn" href="{{ site.url }}/first_steps/">Start using nGY2</a>
 > <a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
 > <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
 > </nav>
+
+
+### Get nanoGALLERY2
+
+<nav class="pagination" role="navigation">
+  {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
+  &nbsp;&nbsp;&nbsp;
+  {% include btn-image.html url="images/iconmonstr-github-1.svg" description="view on github" %}
+</nav>
+
+CDN Link (copy/paste this code into your HTML):  
+~~~ javascript
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
+~~~
+
   
 <br><br><br> 
 
