@@ -61,6 +61,11 @@ search_omit: true
 <a href="{{ site.url }}/" title="CDN"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;"><br>CDN Link</a>
 </nav>
 
+# -  
+
+<a markdown="0" class="btn" href="{{ site.url }}/first_steps/"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN</a>
+<a markdown="0" class="btn" href="{{ site.url }}/first_steps/"><img src="{{ site.url }}/images/iconmonstr-cloud-23.svg" alt="CDN" style="width:80px;vertical-align:baseline;">CDN</a>
+
 > ZIP  
 > github  
 > CDN  
