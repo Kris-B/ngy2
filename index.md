@@ -62,8 +62,8 @@ search_omit: true
   
 <br><br>
 
-> **you'll love nanoGALLERY2** :
 > <nav class="pagination" role="navigation">
+> **you'll love nanoGALLERY2**  
 > - great features
 > - easy to implement
 > - unlimited support
