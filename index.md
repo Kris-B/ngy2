@@ -60,7 +60,7 @@ search_omit: true
 </nav>
 
   
-<br><br>
+<br>
 
 > <nav class="pagination" role="navigation">
 > <b>you'll love nanoGALLERY2</b><br><br>
@@ -69,10 +69,10 @@ search_omit: true
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> unlimited support
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> expandable
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> open source
->  
+> <br><br>
 > </nav>
 
-
+<br><br>
 
 ### Get nanoGALLERY2
 ---
