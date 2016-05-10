@@ -75,6 +75,8 @@ search_omit: true
 <br><br>
 </blockquote>
 
+<br>
+
 > <b>some features</b><br>
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> gallery
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> lightbox
