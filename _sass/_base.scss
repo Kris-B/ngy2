@@ -216,7 +216,10 @@ pre {
 }
 
 
-
+.label-feature {
+  @include font-size(14);
+  
+}
 
 
 // Global Transition
