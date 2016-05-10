@@ -62,16 +62,19 @@ search_omit: true
   
 <br>
 
-> <nav class="pagination" role="navigation">
-> <b>you'll love nanoGALLERY2</b><br><br>
-> {% include label-feature.html description="great features" %}
-> {% include label-feature.html description="easy to implement" %}
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> expandable
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> unlimited support
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> open source
-> <br><br>
+<blockquote>
+<nav class="pagination" role="navigation">
+<b>you'll love nanoGALLERY2</b><br><br>
+{% include label-feature.html description="great features" %}
+{% include label-feature.html description="easy to implement" %}
+<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features
+<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement
+<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> expandable
+<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> unlimited support
+<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> open source
+<br><br>
+</blockquote>
+
 > <b>some features</b><br>
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> gallery
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> lightbox
