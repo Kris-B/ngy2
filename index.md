@@ -82,7 +82,7 @@ search_omit: true
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> gallery
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> lightbox
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> multiple layouts
->img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> API
+<img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> API
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> plugins
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> multi-level albums
 <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> pagination
