@@ -38,8 +38,8 @@ search_omit: true
       touchAnimationL1: true,
       touchAnimation:false,
       i18n:{
-        thumbnailImageDescription:'view photo', thumbnailImageDescription_FR:'afficher photo',
-        thumbnailAlbumDescription:'open gallery', thumbnailAlbumDescription_FR:'ouvrir galerie'
+        thumbnailImageDescription:'display photo', thumbnailImageDescription_FR:'afficher photo',
+        thumbnailAlbumDescription:'display gallery', thumbnailAlbumDescription_FR:'afficher galerie'
       },
       viewerToolbar: { standard:'minimizeButton,pageCounter,playPauseButton,linkOriginalButton,label', autoMinimize:5000 },
       galleryFullpageButton:true,
@@ -61,7 +61,16 @@ search_omit: true
 
   
 <br><br>
-  
+
+> You'll nanoGALLERY2 :
+> - great features
+> - easy to implement
+> - unlimited support
+> - expandable
+> - open source
+
+
+
 ### Get nanoGALLERY2
 ---
 
