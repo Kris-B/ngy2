@@ -66,9 +66,20 @@ search_omit: true
 > <b>you'll love nanoGALLERY2</b><br><br>
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> great features
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> easy to implement
-> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> unlimited support
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> expandable
+> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> unlimited support
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> open source
+> <br>
+> <b>some features</b><br><br>
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> gallery
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> lightbox
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> responsive
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> API
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> plugins
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> multi-level albums
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> pagination
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> hover effects
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="00"> deep linking
 > <br><br>
 > </nav>
 
@@ -84,7 +95,7 @@ search_omit: true
 </nav>
 
 * npm: `npm install nanogallery`  
-* CDN link:  
+* link directly to nanoGALLERY2 files on CDNJS:  
 `<link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">`
 `<script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>`
 
