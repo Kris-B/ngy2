@@ -71,7 +71,7 @@ search_omit: true
   {% include btn-image.html url="images/iconmonstr-github-1.svg" description="view on github" %}
 </nav>
 
-npm: 'npm install nanogallery'
+npm: `npm install nanogallery`
 CDN link:  
 {% highlight javascript %}
     <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
