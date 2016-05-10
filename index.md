@@ -66,9 +66,9 @@ search_omit: true
 ---
 
 <nav class="pagination" role="navigation">
-  {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
+  {% include btn-image.html href="https://github.com/Kris-B/nanoGALLERY/archive/v5.10.0.zip" url="images/iconmonstr-download-14.svg" description="download zip" %}
   &nbsp;&nbsp;&nbsp;
-  {% include btn-image.html url="images/iconmonstr-github-1.svg" description="view on github" %}
+  {% include btn-image.html href="https://github.com/Kris-B/nanoGALLERY" url="images/iconmonstr-github-1.svg" description="view on github" %}
 </nav>
 
 * npm: `npm install nanogallery`  
