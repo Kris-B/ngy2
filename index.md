@@ -63,11 +63,13 @@ search_omit: true
 <br><br>
 
 > **you'll love nanoGALLERY2** :
+> <nav class="pagination" role="navigation">
 > - great features
 > - easy to implement
 > - unlimited support
 > - expandable
 > - open source
+> </nav>
 
 
 
