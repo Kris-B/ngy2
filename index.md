@@ -64,8 +64,10 @@ search_omit: true
 
 > <nav class="pagination" role="navigation">
 > <b>you'll love nanoGALLERY2</b><br><br>
-> {% include label-feature.html description="great features" %}
-> {% include label-feature.html description="easy to implement" %}
+
+{% include label-feature.html description="great features" %}
+{% include label-feature.html description="easy to implement" %}
+
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> expandable
@@ -83,7 +85,7 @@ search_omit: true
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> hover effects
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> deep linking
 > <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> selectable thumbnails
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> RTL / TRL
+> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="20" height="20"> RTL / LTR
 > <br><br>
 > </nav>
 
