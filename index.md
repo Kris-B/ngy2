@@ -63,7 +63,7 @@ search_omit: true
 <br><br>
 
 > <nav class="pagination" role="navigation">  
-> <b>you'll love nanoGALLERY2</b>  
+> <b>you'll love nanoGALLERY2</b><br>
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> great features
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> easy to implement
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="00"> unlimited support
