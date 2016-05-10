@@ -67,11 +67,9 @@ search_omit: true
 <b>you'll love nanoGALLERY2</b><br><br>
 {% include label-feature.html description="great features" %}
 {% include label-feature.html description="easy to implement" %}
-<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features
-<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement
-<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> expandable
-<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> unlimited support
-<img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> open source
+{% include label-feature.html description="expandable" %}
+{% include label-feature.html description="unlimited support" %}
+{% include label-feature.html description="open source" %}
 <br><br>
 </nav>
 </blockquote>
