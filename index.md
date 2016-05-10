@@ -63,6 +63,7 @@ search_omit: true
 <br><br>
   
 ### Get nanoGALLERY2
+---
 
 <nav class="pagination" role="navigation">
   {% include btn-image.html href="http://github.com" url="images/iconmonstr-download-14.svg" description="download zip" %}
@@ -80,8 +81,9 @@ CDN link:
   
 <br><br><br> 
 
-### Recent blog posts  
-  
+### Recent blog posts
+---
+
 <ul class="post-list">
 {% for post in site.categories.blog %} 
   <!-- <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li> -->
@@ -91,7 +93,8 @@ CDN link:
   
 <br><br><br>
 
-### Your review  
+### Your review
+---
 Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, ease of use, documentation, customizability, design, implementation, support...
 
 <div id="wpac-review"></div>
