@@ -62,7 +62,7 @@ search_omit: true
   
 <br><br>
 
-> You'll nanoGALLERY2 :
+> **you'll love nanoGALLERY2** :
 > - great features
 > - easy to implement
 > - unlimited support
