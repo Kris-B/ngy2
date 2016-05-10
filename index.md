@@ -64,8 +64,10 @@ search_omit: true
 
 > <nav class="pagination" role="navigation">
 > <b>you'll love nanoGALLERY2</b><br><br>
-> <h4> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features</h4>
-> <h4> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement</h4>
+> {% include label-feature.html description="great features" %}
+> {% include label-feature.html description="easy to implement" %}
+> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> great features
+> <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> easy to implement
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> expandable
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> unlimited support
 > <img src="{{ site.url }}/images/iconmonstr-star-2.svg" width="20" height="20"> open source
