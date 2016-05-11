@@ -63,7 +63,7 @@ search_omit: true
 
 <blockquote>
 <nav class="pagination" role="navigation">
-<b>you'll love nanoGALLERY2</b><br><br><br>
+<b>you'll love nanoGALLERY2:</b><br><br><br>
 {% include label-feature.html description="great features" %}
 {% include label-feature.html description="easy to implement" %}
 {% include label-feature.html description="expandable" %}
