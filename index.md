@@ -48,7 +48,6 @@ search_omit: true
       locationHash:true,
       breadcrumbAutoHideTopLevel:true
     });
-
   });  
 </script>
 
