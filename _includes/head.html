@@ -28,7 +28,13 @@
   <link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.nanotoc.css">
 {% endif %}
 
-
+<script type="text/javascript">
+alert( 'hello' );
+alert( 'hello' + {% page.url %} );
+{% if page.url == "/index.html" %}
+   alert("ok");
+{% endif %}
+</script>
 
 <!-- Webfonts -->
 <!--
