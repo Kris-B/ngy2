@@ -54,14 +54,8 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <span style="font-size:1.2rem;">Donator License</span>
     <span style="font-size:1.0rem;"><br>You decide freely the amount of your support.</span>
   </div>
-  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;">
-    <span>?€</span>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="RLEB2V7XHD2C4">
-<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
-</form>
+  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RLEB2V7XHD2C4">?€</a>
   </div>
 </div> 
 
