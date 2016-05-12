@@ -71,7 +71,7 @@ text_rotator: true
 {% include label-feature.html description="open source" %}
 <br>
 <style>#js-rotating > li {font-size:3rem;}</style>
-<ul id="js-rotating">
+<ul id="js-rotating" style="padding:0px;">
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> gallery</li>
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> lightbox</li>
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> multiple layouts</li>
