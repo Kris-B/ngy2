@@ -29,15 +29,17 @@ By buying a pro license you support the future development of nanoGALLERY. It is
   </div>
 </div>
   
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG"><div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
     <span style="font-size:1.2rem;">OEM License</span>
     <span style="font-size:1.0rem;"><br>for including nanoGALLERY in your own non-free applications and products.</span>
+    </a>
   </div>
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
-    90€
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">90€</a>
   </div>
-</div></a>
+</div>
 
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
