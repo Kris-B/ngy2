@@ -76,27 +76,18 @@ text_rotator: true
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> lightbox</li>
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> multiple layouts</li>
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> touch enable</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> responsive</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> multi-level albums</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> hover effects</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> transitions</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> pagination</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> API</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> plugins</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> deep linking</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> selectable thumbnails</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> RTL / LTR</li></ul>
 </nav>
 </blockquote>
-
-<br>
-
-> <b>some features</b><br>
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> gallery
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> lightbo
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> multiple layouts
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> touch enable
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> responsive
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> multi-level albums
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> hover effects
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> transitions
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> pagination
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> API
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> plugins
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> deep linking
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> selectable thumbnails
-> <img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> RTL / LTR
-> <br><br>
 
 <br><br>
 
