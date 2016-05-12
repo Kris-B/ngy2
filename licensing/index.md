@@ -18,12 +18,12 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
-  <div style="display:blocks;">
+  <div style="display:blocks;background-color:#54840C;">
     <span style="font-size:1.2rem;">Website License</span>
     <span style="font-size:1.0rem;"><br>for ONE website</span>
   </div>
-  <div style="font-size:1.5rem;color:#fff;background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
-    25€
+  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;">
+    <span>25€</span>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="ZAL3EV2DT347U">
