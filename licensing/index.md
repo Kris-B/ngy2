@@ -4,18 +4,22 @@ title: Licensing
 ---
 
 ## Learn about licencing options to find which best fits your needs.
-
+  
+  
+  
 nanoGALLERY2 is licensed under CC BY-NC 3.0. It may be used in commercial projects and applications, or in business environments with the purchase of a professional license.
+  
+  
+### Open source license
+For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY2 for free. If fees are associated to the use of nanoGALLERY2, your project is not eligible to this license.
 
-#### Open source license
-For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY for free. If fees are associated to the use of nanoGALLERY, your project is not eligible to this license.
+<b>All other uses are considered professional. The purchase of a license is required.</b>  
+  
+  
+### Professional license
+Purchasing accepts most credit cards and takes seconds. Once purchased, you'll receive a Professional License PDF and you will be able to integrate nanoGALLERY2 in your projects.
 
-All other uses are considered professional. The purchase of a license is required. 
-
-#### Professional license
-Purchasing accepts most credit cards and takes seconds. Once purchased, you'll receive a Professional License PDF and you will be able to integrate nanoGALLERY in your projects.
-
-By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
+##### By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
@@ -50,7 +54,7 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RLEB2V7XHD2C4">?€</a>
   </div>
 </div> 
-
-
-
+  
+  
+  
 If you have special needs, you can also ask for the author's permission. Contact: nano[at]brisbois.fr
