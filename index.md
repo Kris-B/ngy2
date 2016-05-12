@@ -72,10 +72,10 @@ text_rotator: true
 <br>
 <style>#js-rotating > li {font-size:3rem;}</style>
 <ul id="js-rotating" style="padding:0px;">
-  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> gallery</li>
-  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> lightbox</li>
-  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> multiple layouts</li>
-  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> touch enable</li></ul>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> gallery</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> lightbox</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> multiple layouts</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> touch enable</li></ul>
 </nav>
 </blockquote>
 
