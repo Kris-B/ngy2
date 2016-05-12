@@ -28,7 +28,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
     </a>
   </div>
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">25€</a>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL"><img src="{{ site.url }}/images/iconmonstr-cursor-10.svg" width="20">25€</a>
   </div>
 </div>
 <span></span>
@@ -40,7 +40,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
     </a>
   </div>
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">90€</a>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG"><img src="{{ site.url }}/images/iconmonstr-cursor-10.svg" width="20"> 90€</a>
   </div>
 </div>
 <span></span>
