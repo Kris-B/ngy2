@@ -70,7 +70,7 @@ text_rotator: true
 {% include label-feature.html description="unlimited support" %}
 {% include label-feature.html description="open source" %}
 <br><br>
-<style>#js-rotating > li>td{font-size:3rem;}</style>
+<style>#js-rotating > li {font-size:3rem;}</style>
 <ul id="js-rotating"><li>gallery</li><li>lightbox</li><li>multiple layouts</li><li>touch enable</li></ul>
 <br><br>
 </nav>
