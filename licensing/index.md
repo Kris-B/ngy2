@@ -20,9 +20,16 @@ By buying a pro license you support the future development of nanoGALLERY. It is
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">Website License</span>
-    <span style="font-size:1.0rem;"><br>For implementing nanoGALLERY2 on ONE website.</span>
+    <span style="font-size:1.0rem;"><br>for ONE website</span>
   </div>
   <div style="font-size:1.5rem;color:#fff;background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">25€</div>
+</div>
+<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+  <div style="display:blocks;">
+    <span style="font-size:1.2rem;">OEM License</span>
+    <span style="font-size:1.0rem;"><br>for including nanoGALLERY in your own non-free applications and products. For example: premium themes, site templates, plugins.</span>
+  </div>
+  <div style="font-size:1.5rem;color:#fff;background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">90€</div>
 </div>
 
 If you have special needs, you can also ask for the author's permission. Contact: nano[at]brisbois.fr
