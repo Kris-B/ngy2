@@ -5,6 +5,7 @@ title: beautiful javascript image gallery for your website
 descriptionXXX: nanoGALLERY2 is a touch enabled and fully responsive image gallery with justified, cascading and grid layout.<br>It supports self hosted images and pulling in Flickr, Picasa and Google+ photo albums.
 display_logo: true
 search_omit: true
+text_rotator: true
 ---
 
 <script>
