@@ -19,7 +19,7 @@ By buying a pro license you support the future development of nanoGALLERY. It is
 
 <div style="border: 2px solid #555;border-radius: 5px;position:relative;padding:10px;">
   <div style="display:bloacks;">Website License<br>To implement nanoGALLERY2 on ONE website.</div>
-  <div style="background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;">25€</div>
+  <div style="background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;height:100%;">25€</div>
 </div>
 
 If you have special needs, you can also ask for the author's permission. Contact: nano[at]brisbois.fr
