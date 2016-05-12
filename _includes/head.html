@@ -25,9 +25,10 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 
 
-<script type="text/javascript">
-  alert("hello"+ {{ page.url }}  );
-</script>
+{% if page.url == "/" }
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/animate.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/morphist.css">
+{% endif }
 
 {% if page.layout == "documentation" %}
   <link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.nanotoc.css">
