@@ -31,7 +31,7 @@ By buying a pro license you support the future development of nanoGALLERY. It is
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
   </div>
-</div>
+</div> 
 <br>
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
