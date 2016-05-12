@@ -26,14 +26,9 @@
 
 
 <script type="text/javascript">
-alert( 'hello' );
-alert( 'hello' + {% page.url %} );
+  alert("hello" );
+  alert("hello" + {% page.name %} );
 </script>
-{% if page.url == "/index.html" %}
-<script type="text/javascript">
-   alert("ok");
-</script>
-{% endif %}
 
 {% if page.layout == "documentation" %}
   <link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.nanotoc.css">
