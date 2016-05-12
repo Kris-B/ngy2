@@ -23,11 +23,12 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <span style="font-size:1.0rem;"><br>for ONE website</span>
   </div>
   <div style="font-size:1.5rem;color:#fff;background-color:#54840C;width:100px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
+    25€
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="TR6MVMB9FFBXL">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      25€
+      <input type="hidden" name="hosted_button_id" value="ZAL3EV2DT347U">
+      <input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
+      <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
     </form>
   </div>
 </div>
