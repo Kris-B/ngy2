@@ -17,7 +17,8 @@
   </script>
 {% endif %}
 
-console.log({{ page.url }});
+console.log('-');
+console.dir( {{ page.url }} );
 
 {% if page.url == "/index.html" }
   <script src="http://brisbois.fr/ngy2/assets/js/plugins/morphist.min.js"></script>
