@@ -17,38 +17,30 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 
 By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">Website License</span>
     <span style="font-size:1.0rem;"><br>for ONE website</span>
   </div>
-  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;">
-    <span>25€</span>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZAL3EV2DT347U">
-<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
-<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
-</form>
+  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
+    25€
   </div>
 </div> 
+</a>
   
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">OEM License</span>
     <span style="font-size:1.0rem;"><br>for including nanoGALLERY in your own non-free applications and products.</span>
   </div>
-  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;">
-    <span>90€</span>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="76ATCDDEA32GG">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
-</form>
+  <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
+    90€
   </div>
 </div> 
-  
+</a>
+
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">Donator License</span>
