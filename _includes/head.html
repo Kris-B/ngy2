@@ -54,6 +54,13 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
 
+{% if page.text_rotator == true %}
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/animate.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/morphist.css">
+{% endif %}
+
+
+
 <!-- Icons -->
 <!-- 16x16 -->
 <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
