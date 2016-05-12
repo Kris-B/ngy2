@@ -22,7 +22,7 @@ console.log('-7');
 console.dir( "{{ page.text_rotator  }}" );
 </script>
 
-{% if page.text_rotator == true }
+{% if page.text_rotator %}
   <script src="http://brisbois.fr/ngy2/assets/js/plugins/morphist.min.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
