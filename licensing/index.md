@@ -5,9 +5,12 @@ title: Licensing
 
 ## Learn about licencing options to find which best fits your needs.
 <br>
+<br>
+<br>
 nanoGALLERY2 is licensed under CC BY-NC 3.0. It may be used in commercial projects and applications, or in business environments with the purchase of a professional license.
 <br>  
-  
+<br>
+
 ### Open source license
 For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY2 for free. If fees are associated to the use of nanoGALLERY2, your project is not eligible to this license.
 
