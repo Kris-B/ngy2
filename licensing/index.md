@@ -18,7 +18,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
-  <div style="display:blocks;background-color:#54840C;">
+  <div style="display:blocks;">
     <span style="font-size:1.2rem;">Website License</span>
     <span style="font-size:1.0rem;"><br>for ONE website</span>
   </div>
