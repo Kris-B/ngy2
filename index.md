@@ -58,7 +58,15 @@ search_omit: true
 <a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
 </nav>
 
-  
+I am a...
+<ul id="js-rotating">
+    <li>So Simple</li>
+    <li>Very Doge</li>
+    <li>Much Wow</li>
+    <li>Such Cool</li>
+</ul>
+
+
 <br>
 
 <blockquote>
