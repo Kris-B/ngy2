@@ -70,7 +70,7 @@ text_rotator: true
 {% include label-feature.html description="unlimited support" %}
 {% include label-feature.html description="open source" %}
 <br>
-<style>#js-rotating > li {font-size:3rem;}</style>
+<style>#js-rotating > li {font-size:2.5rem;}</style>
 <ul id="js-rotating" style="padding:0px;">
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> gallery</li>
   <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="25"> lightbox</li>
