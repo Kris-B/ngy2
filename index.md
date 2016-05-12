@@ -69,10 +69,13 @@ text_rotator: true
 {% include label-feature.html description="expandable" %}
 {% include label-feature.html description="unlimited support" %}
 {% include label-feature.html description="open source" %}
-<br><br>
+<br>
 <style>#js-rotating > li {font-size:3rem;}</style>
-<ul id="js-rotating"><li>gallery</li><li>lightbox</li><li>multiple layouts</li><li>touch enable</li></ul>
-<br><br>
+<ul id="js-rotating">
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> gallery</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> lightbox</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> multiple layouts</li>
+  <li><img src="{{ site.url }}/images/iconmonstr-check-mark-12.svg" width="15"> touch enable</li></ul>
 </nav>
 </blockquote>
 
