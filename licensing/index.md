@@ -17,8 +17,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 
 By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL"><div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">Website License</span>
     <span style="font-size:1.0rem;"><br>for ONE website</span>
@@ -26,11 +25,9 @@ By buying a pro license you support the future development of nanoGALLERY. It is
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
     25€
   </div>
-</div> 
-</a>
+</div></a>
   
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG"><div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">OEM License</span>
     <span style="font-size:1.0rem;"><br>for including nanoGALLERY in your own non-free applications and products.</span>
@@ -38,8 +35,7 @@ By buying a pro license you support the future development of nanoGALLERY. It is
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
     90€
   </div>
-</div> 
-</a>
+</div></a>
 
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
