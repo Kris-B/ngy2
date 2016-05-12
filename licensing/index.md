@@ -17,7 +17,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 
 By buying a pro license you support the future development of nanoGALLERY. It is much appreciated!
 
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">
     <span style="font-size:1.2rem;">Website License</span>
@@ -28,9 +28,8 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">25€</a>
   </div>
 </div>
-  
-  
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<span></span>
+<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
     <span style="font-size:1.2rem;">OEM License</span>
@@ -41,8 +40,8 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">90€</a>
   </div>
 </div>
-<br>
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
+<span></span>
+<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <span style="font-size:1.2rem;">Donator License</span>
     <span style="font-size:1.0rem;"><br>You decide freely the amount of your support.</span>
