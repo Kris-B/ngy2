@@ -28,7 +28,8 @@ By buying a pro license you support the future development of nanoGALLERY. It is
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">25€</a>
   </div>
 </div>
-<br>
+  
+  
 <div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
