@@ -125,9 +125,9 @@
       {% for post in site.categories.docs %} 
         <li>
         {% if post.url == page.url %}
-          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}" style="border-left-color: #54840C;">{{ post.title }}</a> &nbsp; 
+          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}" style="border-left-color: #54840C;">{{ post.title }}</a>
         {% else %}
-          <a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
+          <a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a>
         {% endif %}
         </li>
       {% endfor %}
