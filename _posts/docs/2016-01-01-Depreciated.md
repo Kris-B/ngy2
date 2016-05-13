@@ -1,12 +1,14 @@
 ---
 layout: documentation
 title: "Depreciated"
-modified: 2016-05-01
+modified: 2016-01-01
 categories: docs
 comments: false
 ---
 
-# Depreciated nanoGALLERY1 options  
+# Depreciated
+
+Depreciated nanoGALLERY2 options.
 
 | Property | Comment |
 | ----- | ----- |
