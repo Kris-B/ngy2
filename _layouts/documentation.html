@@ -30,22 +30,21 @@
 
 {% include navigation.html %}
 
------------
-{% for post in site.categories.docs %} 
-  <!--
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-  -->
-  <!-- <article><a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} </a></article> -->
-  {% if post.url == page.url %}
-    <a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} CURRENT</a> &nbsp; 
-  {% else %}
-    <a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
-  {% endif %}
-{% endfor %}
-
-
 <div id="main" role="main">
   <article class="entry" style="text-align: center;">
+    <div id="nanoTOC2">
+      <ul>
+      {% for post in site.categories.docs %} 
+        <li>
+        {% if post.url == page.url %}
+          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}">{{ post.title }} CURRENT</a> &nbsp; 
+        {% else %}
+          <a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
+        {% endif %}
+        </li>
+      {% endfor %}
+      <ul>
+    </div>  
     <div class="entry-wrapper" id="nanodocumentation" style="text-align: left;">
       <div class="entry-content">
         {{ content }}
