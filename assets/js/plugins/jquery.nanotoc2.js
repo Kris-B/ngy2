@@ -110,6 +110,8 @@
 
       });
   
+return;  
+  
       var $docSections = $content.find(params.selectors);
       var $oldBest;
     
