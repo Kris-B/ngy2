@@ -60,17 +60,17 @@
 
 /* Table Of Content - Levels */
 #nanoTOC2 .nanotocLevel1 {
-  padding-left: 0px;
+  padding-left: 5px;
 }
 #nanoTOC2 .nanotocLevel2 {
-  padding-left: 0px;
-  padding-top: 10px;
+  padding-left: 5px;
+  /* padding-top: 10px; */
 }
 #nanoTOC2 .nanotocLevel3 {
-  padding-left: 0px;
+  padding-left: 5px;
 }
 #nanoTOC2 .nanotocLevel4 {
-  padding-left: 10px;
+  padding-left: 15px;
 }
 
 #nanoTOC2 .nanotocLevel1 a {
@@ -114,7 +114,7 @@
       {% for post in site.categories.docs %} 
         <li>
         {% if post.url == page.url %}
-          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}" style="border-left-color: ##54840C;">{{ post.title }}</a> &nbsp; 
+          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}" style="border-left-color: #54840C;">{{ post.title }}</a> &nbsp; 
         {% else %}
           <a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
         {% endif %}
