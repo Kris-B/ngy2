@@ -6,7 +6,7 @@ categories: docs
 comments: false
 ---
 
-### Depreciated nanoGALLERY1 options  
+# Depreciated nanoGALLERY1 options  
 
 | Property | Comment |
 | ----- | ----- |
