@@ -18,7 +18,7 @@
 // ##########################################
 ;(function ($) {
   "use strict";
-  jQuery.nanoToc= function(elt, options){
+  jQuery.nanoToc2= function(elt, options){
     // To avoid scope issues, use '_this' instead of 'this'
     // to reference this class from internal events and functions.
     var _this = this;
@@ -28,12 +28,12 @@
     _this.e = elt;
 
     // Add a reverse reference to the DOM object
-    _this.$e.data('nanoToc', _this);
+    _this.$e.data('nanoToc2', _this);
 
     _this.init = function(){
-      _this.options = $.extend(true, {},$.nanoToc.defaultOptions, options);
+      _this.options = $.extend(true, {},$.nanoToc2.defaultOptions, options);
       // Initialization code
-      _this.nG= new nanoTOC();
+      _this.nG= new nanoTOC2();
       _this.nG.Initiate(_this.$e, _this.options );
     };
       
@@ -42,7 +42,7 @@
   };
 
 
-  jQuery.nanoToc.defaultOptions = {
+  jQuery.nanoToc2.defaultOptions = {
     widthContent : '75%',
     selectors : 'h1, h2, h3, h4',
     anchorPrefix : '',
@@ -52,11 +52,12 @@
   };
   
   
-  function nanoTOC() {
+  function nanoTOC2() {
 
     this.Initiate = function( $element, params ) {
       "use strict";
       
+
       var $documentation=$element;
       $documentation.addClass('nanoTOC_content');
       // $documentation.wrapInner('<div id="nanoTOC_content"></div>');
@@ -64,11 +65,11 @@
       // var $sidebar=$('<div id="nanoTOC_sidebar"></div>').appendTo($documentation);
       // var $toc=$('<div id="nanoTOC_toc"></div>').appendTo($sidebar);
       var $content=$documentation;  
-      var $sidebar=$('<div id="nanoTOC_sidebar"></div>');
-      $documentation.after($sidebar);
-      var $toc=$('<div id="nanoTOC_toc"></div>').appendTo($sidebar);
-
-      $content.width(params.widthContent);
+//      var $sidebar=$('<div id="nanoTOC_sidebar"></div>');
+//      $documentation.after($sidebar);
+//      var $toc=$('<div id="nanoTOC_toc"></div>').appendTo($sidebar);
+      var $toc=$('<div id="nanoTOC_toc"></div>').appendTo('#nanoTOC2_current_page');
+//      $content.width(params.widthContent);
       $content.css('display','inline-block');
 	
       var style='#nanoTOC_toc .nanotocActive { border-left-color:'+params.borderColor+'; }'+'\n';
@@ -166,8 +167,8 @@
       }
     
       // Position TOC and hilite current section
-      manageTOC();
-      $(window).on("scroll resize", manageTOC );
+//      manageTOC();
+//      $(window).on("scroll resize", manageTOC );
 
     }
     
