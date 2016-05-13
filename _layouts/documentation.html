@@ -25,7 +25,7 @@
   }
 </style>
 
-<!-- nanoTOC2 -->
+<!-- ########################### nanoTOC2 ########################### -->
 <style>
   #nanoTOC2 {
     display: inline-block;
@@ -127,7 +127,7 @@
         {% endif %}
         </li>
       {% endfor %}
-      <ul>
+      </ul>
     </div>  
     <div class="entry-wrapper" id="nanodocumentation" style="text-align: left;max-width: 100em;">
       <div class="entry-content">
@@ -148,37 +148,6 @@
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}
-
-<script>
-  /*
-      var $toc=$('#nanoprez_toc');
-      $toc.empty();
-      var $tocParents=[$toc];
-      
-      $('.entry-content').find('h1, h2, h3').each(function() {
-        var $el = $(this);
-        var level = parseInt(this.nodeName[1]);
-
-        // add ID
-        var curID=$el.attr('id');
-        //locationHash = locationHash.slice(0,level-1);
-        //locationHash[level-1] = $el.text();
-        //var slug = URLify(locationHash.join('-'));
-        //$el.attr('id', slug);
-
-        // add to TOC
-        if( !$tocParents[level-1].is( "ul" ) ) {
-          var $ul=$('<ul class="side-nav"></ul>').appendTo($tocParents[level-1]);
-          $tocParents[level-1]=$ul;
-        }
-        var $cur=$('<li><a href="#'+curID+'" id="link-'+curID+'">' + $el.text() + '</a></li>').appendTo($tocParents[level-1]);
-        $tocParents = $tocParents.slice(0,level);
-        $tocParents[level] = $cur;
-
-      });
-  */
-  
-</script>
 
 </body>
 </html>
