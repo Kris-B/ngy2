@@ -103,8 +103,10 @@ text_rotator: true
 
 * npm: `npm install nanogallery`  
 * link directly to nanoGALLERY2 files on CDNJS:  
-`<link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">`
-`<script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>`
+{% highlight javascript %}
+<link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
+{% endhighlight %}
 
 <br><br><br> 
 
