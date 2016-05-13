@@ -48,6 +48,13 @@
   margin-bottom: 0px;
 }
 
+#nanoTOC2 li a {
+  color: #111;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 /* Table Of Content - Levels */
 #nanoTOC2 .nanotocLevel1 {
   padding-left: 0px;
@@ -99,7 +106,7 @@
 <div id="main" role="main">
   <article class="entry" style="text-align: center;">
     <div id="nanoTOC2">
-      <h3>nGY2 docs</h3>
+      <h3 style="text-align: left;">nGY2 docs</h3>
       <ul>
       {% for post in site.categories.docs %} 
         <li>
