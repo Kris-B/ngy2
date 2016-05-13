@@ -34,6 +34,60 @@
     overflow: hidden;
     padding: 0 5 0 2
   }
+#nanoTOC2 ul {
+  list-style-type: none;
+  padding-left: 0px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+#nanoTOC2 li {
+  list-style-type: none;
+  padding-left: 0px;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+/* Table Of Content - Levels */
+#nanoTOC2 .nanotocLevel1 {
+  padding-left: 0px;
+}
+#nanoTOC2 .nanotocLevel2 {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+#nanoTOC2 .nanotocLevel3 {
+  padding-left: 0px;
+}
+#nanoTOC2 .nanotocLevel4 {
+  padding-left: 10px;
+}
+
+#nanoTOC2 .nanotocLevel1 a {
+  color: #333;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#nanoTOC2 .nanotocLevel2 a {
+  color: #555;
+  font-size: 1em;
+  text-transform: none;
+  font-weight: bold;
+}
+#nanoTOC2 .nanotocLevel3 a {
+  color: #555;
+  font-size: 0.9em;
+  text-transform: none;
+  font-weight: normal;
+}
+#nanoTOC2 .nanotocLevel4 a {
+  color: #555;
+  font-size: 0.9em;
+  text-transform: none;
+  font-weight: normal;
+}
+
 </style>
 
 </head>
@@ -45,7 +99,7 @@
 <div id="main" role="main">
   <article class="entry" style="text-align: center;">
     <div id="nanoTOC2">
-      <span>nGY2 docs</span>
+      <h3>nGY2 docs</h3>
       <ul>
       {% for post in site.categories.docs %} 
         <li>
