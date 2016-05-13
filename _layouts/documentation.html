@@ -8,6 +8,7 @@
 {% include head.html %}
 {% include ngy.html %}
 
+<!--  tables -->
 <style>
   table {
     border: solid 1px #ddd;
@@ -24,6 +25,17 @@
   }
 </style>
 
+<!-- nanoTOC2 --->
+<style>
+  
+</style>
+  #nanoTOC2 {
+    display: inline-block;
+    width: 150px;
+    vertical-align: top;
+    overflow: hidden;
+    padding: 0 5 0 2
+  }
 </head>
 
 <body id="page">
@@ -32,12 +44,13 @@
 
 <div id="main" role="main">
   <article class="entry" style="text-align: center;">
+    <span>nGY2 docs</span>
     <div id="nanoTOC2">
       <ul>
       {% for post in site.categories.docs %} 
         <li>
         {% if post.url == page.url %}
-          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}">{{ post.title }} CURRENT</a> &nbsp; 
+          <a id="nanoTOC2_current_page" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> &nbsp; 
         {% else %}
           <a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
         {% endif %}
