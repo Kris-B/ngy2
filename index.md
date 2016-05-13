@@ -126,6 +126,9 @@ text_rotator: true
 ---
 Please rate nanoGALLERY2  and write some words about your usage. Give others some feedback about features, ease of use, documentation, customizability, design, implementation, support...
 
+--
+
+<style>.wpac .wp-btn { margin 0px !important;}</style>
 <div id="wpac-review"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
