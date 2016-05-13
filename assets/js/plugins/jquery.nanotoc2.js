@@ -68,7 +68,7 @@
 //      var $sidebar=$('<div id="nanoTOC_sidebar"></div>');
 //      $documentation.after($sidebar);
 //      var $toc=$('<div id="nanoTOC_toc"></div>').appendTo($sidebar);
-      var $toc=$('<div id="nanoTOC_toc"></div>').appendTo('#nanoTOC2_current_page');
+      var $toc=$('<div id="nanoTOC2_toc"></div>').appendTo('#nanoTOC2_current_page');
 //      $content.width(params.widthContent);
       $content.css('display','inline-block');
 	
