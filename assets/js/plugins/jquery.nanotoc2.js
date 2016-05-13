@@ -44,7 +44,7 @@
 
   jQuery.nanoToc2.defaultOptions = {
     widthContent : '75%',
-    selectors : 'h1, h2, h3, h4',
+    selectors : 'h2, h3, h4, h5',
     anchorPrefix : '',
     hideTocWidth : 600,
     borderColor : '#fb5',
