@@ -12,15 +12,9 @@
 - title: quick start
   url: /quick-start/
 
-- title: options
-  url: /options/
+- title: docs
+  url: /docs/
 
-- title: api
-  url: /api_callbacks/
-
-- title: plugins
-  url: /plugins/
-  
 - title: usage
   url: /wf/
 
