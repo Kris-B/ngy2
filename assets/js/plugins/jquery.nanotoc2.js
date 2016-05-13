@@ -72,11 +72,11 @@
 //      $content.width(params.widthContent);
       $content.css('display','inline-block');
 	
-      var style='#nanoTOC_toc .nanotocActive { border-left-color:'+params.borderColor+'; }'+'\n';
-      var style=style+'#nanoTOC_toc { border-left-color:'+params.borderColor+'; }'+'\n';
+//      var style='#nanoTOC_toc .nanotocActive { border-left-color:'+params.borderColor+'; }'+'\n';
+//      var style=style+'#nanoTOC_toc { border-left-color:'+params.borderColor+'; }'+'\n';
       // $('#nanoTOC_toc .nanotocActive').css('border-left-color', params.borderColor);
 
-      jQuery('head').append('<style>'+style+'</style>');
+//      jQuery('head').append('<style>'+style+'</style>');
 
       
   
