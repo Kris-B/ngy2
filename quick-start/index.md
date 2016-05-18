@@ -140,7 +140,7 @@ Here's a full working HTML template.
 
 # Seconds steps - use an online photo sharing website
 
-In this second example, we'll see how to get images from <b>Flickr</b> using my own user ID `34858669@N00`.  
+In this second example, we'll see how to get images and photosets from <b>Flickr</b> using my own user ID `34858669@N00`.  
 To retrieve your personal Flickr user ID, use this page -> [Flickr userID](http://www.flickr.com/services/api/explore/flickr.people.findByUsername)
 
 #### 1. Get the script
