@@ -217,7 +217,8 @@ Here's a full working HTML template to display your Flickr images.
         thumbnailHoverEffect:     'imageScaleIn80',
         viewerDisplayLogo:        true,
         thumbnailLabel: {           // options for thumbnailLabel
-          align:                  'center'
+          align:                  'center',
+          displayDescription:     false
         }
       });
     });  
