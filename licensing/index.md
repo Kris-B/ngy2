@@ -12,7 +12,7 @@ nanoGALLERY2 is licensed under CC BY-NC 3.0. It may be used in commercial projec
 <br>
 
 ### Open source license
-For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY2 for free. If fees are associated to the use of nanoGALLERY2, your project is not eligible to this license.
+For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY2 for free. <b>If fees are associated to the use of nanoGALLERY2, your project is not eligible to this license.</b>
 
 <b>All other uses are considered professional. The purchase of a license is required.</b>  
 <br>
@@ -39,7 +39,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
     <span style="font-size:1.2rem;">OEM License</span>
-    <span style="font-size:1.0rem;"><br>for including nanoGALLERY2 in your own non-free applications and products.</span>
+    <span style="font-size:1.0rem;"><br>for including nanoGALLERY2 in your own non-free applications and products,<br>or for an unlimited number of websites.</span>
     </a>
   </div>
   <div style="font-size:1.5rem;color:#54840C;width:120px;text-align:center;position:absolute;right:0;top:0;height:100%;line-height:60px;">
