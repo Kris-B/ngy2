@@ -55,8 +55,8 @@ text_rotator: true
 
 <nav class="pagination" role="navigation">
 <a markdown="0" class="btn" href="{{ site.url }}/quick-start/">Start using nGY2</a>
-<a markdown="0" class="btn" href="{{ site.url }}/options/">Documentation</a>
-<a markdown="0" class="btnGreen" href="{{ site.url }}/options/">Licensing</a>
+<a markdown="0" class="btn" href="{{ site.url }}/docs/">Documentation</a>
+<a markdown="0" class="btnGreen" href="{{ site.url }}/licensing/">Licensing</a>
 </nav>
 
 <br>
