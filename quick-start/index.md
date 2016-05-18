@@ -128,7 +128,9 @@ Here's a full working HTML template.
       thumbnailHeight:          200,
       thumbnailHoverEffect:     'imageScale150',
       viewerDisplayLogo:        true,
-      thumbnailL1Label[align]:  'center'
+      thumbnailLabel: {           // options for thumbnailLabel
+        align:                  'center'
+      }
     });
   });  
 </script>
