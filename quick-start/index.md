@@ -210,10 +210,11 @@ Here's a full working HTML template to display your Flickr images.
   <script>
     $(document).ready(function () {
       jQuery("#myNanoGalleryFlickr").nanoGallery({
-        itemsBaseURL:             'https://source.unsplash.com/',
-        thumbnailWidth:           'auto',
-        thumbnailHeight:          200,
-        thumbnailHoverEffect:     'imageScale150',
+        kind:                     'flickr',
+        userID:                   '34858669@N00',      // replace this value with your own user ID
+        thumbnailWidth:           150,
+        thumbnailHeight:          150,
+        thumbnailHoverEffect:     'imageScaleIn80',
         viewerDisplayLogo:        true,
         thumbnailLabel: {           // options for thumbnailLabel
           align:                  'center'
@@ -238,7 +239,7 @@ Here's a full working HTML template to display your Flickr images.
       userID:   '34858669@N00',      // replace this value with your own user ID
       thumbnailWidth:           150,
       thumbnailHeight:          150,
-      thumbnailHoverEffect:     'imageScale150',
+      thumbnailHoverEffect:     'imageScaleIn80',
       viewerDisplayLogo:        true,
       thumbnailLabel: {           // options for thumbnailLabel
         align:                  'center'
