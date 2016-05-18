@@ -60,7 +60,9 @@ jQUERY must be included, if not already present in your page.
 ~~~
 
 <br>
+
 ------------------
+
 <br>
 
 ### Example
