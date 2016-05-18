@@ -43,9 +43,9 @@ jQUERY must be included, if not already present in your page.
   <body>
     <!-- THE MARKUP -->
     <div id="myNanoGallery">
-      <a href="img_01.jpg" data-ngthumb="img_01t.jpg" data-ngdesc="Description 1">Image 1</a>
+      <a href="img_01.jpg" data-ngthumb="img_01t.jpg"  data-ngdesc="Description 1">Image 1</a>
       <a href="img_02.jpg" data-ngthumb="img_02ts.jpg" data-ngdesc="Description 2">Image 2</a>
-      <a href="img_03.jpg" data-ngthumb="img_03t.jpg" data-ngdesc="Description 3">Image 3</a>
+      <a href="img_03.jpg" data-ngthumb="img_03t.jpg"  data-ngdesc="Description 3">Image 3</a>
     </div>
     
     <!-- CALL THE GALLERY -->
@@ -127,8 +127,8 @@ Here's a full working HTML template.
       thumbnailWidth: 'auto',
       thumbnailHeight: 200,
       thumbnailHoverEffect: 'imageScale150',
-      viewerDisplayLogo:true,
-      thumbnailL1Label: {align:'center', position:'overImageOnMiddle'}
+      viewerDisplayLogo:true
+      //thumbnailL1Label: {align:'center', position:'overImageOnMiddle'}
     });
   });  
 </script>
