@@ -237,8 +237,8 @@ Here's a full working HTML template to display your Flickr images.
     jQuery("#myNanoGalleryFlickr").nanoGallery({
       kind:     'flickr',
       userID:   '34858669@N00',      // replace this value with your own user ID
-      thumbnailWidth:           150,
-      thumbnailHeight:          150,
+      thumbnailWidth:           '150C',
+      thumbnailHeight:          '150C',
       thumbnailHoverEffect:     'imageScaleIn80',
       viewerDisplayLogo:        true,
       thumbnailLabel: {           // options for thumbnailLabel
