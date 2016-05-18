@@ -127,7 +127,7 @@ Here's a full working HTML template.
       thumbnailWidth: 'auto',
       thumbnailHeight: 200,
       thumbnailHoverEffect: 'imageScale150',
-      viewerDisplayLogo:true
+      viewerDisplayLogo:true,
       thumbnailL1Label: {align:'center'}  //, position:'overImageOnMiddle'}
     });
   });  
