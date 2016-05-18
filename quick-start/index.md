@@ -123,12 +123,12 @@ Here's a full working HTML template.
 <script>
   $(document).ready(function () {
     jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
-      itemsBaseURL:'https://source.unsplash.com/',
-      thumbnailWidth: 'auto',
-      thumbnailHeight: 200,
-      thumbnailHoverEffect: 'imageScale150',
-      viewerDisplayLogo:true,
-      thumbnailL1Label.align:'center'
+      itemsBaseURL:             'https://source.unsplash.com/',
+      thumbnailWidth:           'auto',
+      thumbnailHeight:          200,
+      thumbnailHoverEffect:     'imageScale150',
+      viewerDisplayLogo:        true,
+      thumbnailL1Label[align]:  'center'
     });
   });  
 </script>
