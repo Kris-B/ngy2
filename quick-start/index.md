@@ -138,14 +138,29 @@ Here's a full working HTML template.
 <br>
 
 
-# First steps - use an online photo sharing website
+# Seconds steps - use an online photo sharing website
 
 In this second example, we'll see how to get images from <b>Flickr</b> using my own user ID `34858669@N00`.  
 To retrieve your personal Flickr user ID, use this page -> [Flickr userID](http://www.flickr.com/services/api/explore/flickr.people.findByUsername)
 
 #### 1. Get the script
+In this example, we'll use the [CDN](https://cdnjs.com/libraries/nanogallery) version.  
+You can also get the script from:  
+- [Github](https://github.com/Kris-B/nanoGALLERY/archive/v5.9.1.zip)  
+- npmjs: ```npm install nanogallery```  
 
 #### 2. Include it in the ```<head>``` of your page
+
+~~~ javascript
+  <head>
+    <!-- jQuery - only once per page -->
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  
+    <!-- nanoGALLERY2 -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>
+  </head>
+~~~
 
 #### 3. Setup your HTML and initialize the nanoGALLERY2 script
 
