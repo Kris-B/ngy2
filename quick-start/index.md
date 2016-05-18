@@ -94,15 +94,14 @@ Here's a full working HTML template.
 
   <script>
     $(document).ready(function () {
-      jQuery("#myNanoGalleryDemo").css('visibility','visible').nanoGallery({
-        itemsBaseURL:'https://source.unsplash.com/',
-        thumbnailWidth:'auto', thumbnailHeight:200,
-        thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', duration':400},{'name':'descriptionAppear', 'duration':1000}],
-        viewerDisplayLogo:true,
-        thumbnailL1Label:{display:true,align:'center', position:'overImageOnMiddle'},
-        i18n:{
-          thumbnailImageDescription:'view photo', thumbnailImageDescription_FR:'afficher photo',
-          thumbnailAlbumDescription:'open gallery', thumbnailAlbumDescription_FR:'ouvrir galerie'
+      jQuery("#myNanoGalleryDemo").nanoGallery({
+        itemsBaseURL:             'https://source.unsplash.com/',
+        thumbnailWidth:           'auto',
+        thumbnailHeight:          200,
+        thumbnailHoverEffect:     'imageScale150',
+        viewerDisplayLogo:        true,
+        thumbnailLabel: {           // options for thumbnailLabel
+          align:                  'center'
         }
       });
     });  
