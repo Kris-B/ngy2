@@ -83,14 +83,13 @@ Here's a full working HTML template.
 </head>
 
 <body>
-  <h1>my first galery with nanoGALLERY2.</h1>
+  <h1>my first gallery with nanoGALLERY2.</h1>
   
   <div id="myNanoGalleryDemo">
     <a href="C4FV77ovIBM" data-ngthumb="C4FV77ovIBM/300x200" data-ngdesc="Lindsay, Canada">photo by Eric Micheal</a>
     <a href="Kt5hRENuotI" data-ngthumb="Kt5hRENuotI/267x200" data-ngdesc="Quiraing, Portree, United Kingdom">photo by Andrew Ridley</a>
     <a href="-icmOdYWXuQ" data-ngthumb="-icmOdYWXuQ/300x200" data-ngdesc="New York">photo by Kevin Young</a>
   </div>
-
 
   <script>
     $(document).ready(function () {
@@ -106,6 +105,7 @@ Here's a full working HTML template.
       });
     });  
   </script>
+  
 </body>
 </html>
 ~~~
