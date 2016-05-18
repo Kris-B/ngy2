@@ -15,10 +15,124 @@ text_rotator: true
       //userID:'34858669@N00',kind:'flickr',
       //blackList:'doors|kampuchea|vietnam|thailand|laos|yunnan',
       
-      kind: 'picasa',
-      userID:'111186676244625461692',
-      blackList:'profil|scrapbook|Forhomepage',
+      // kind: 'picasa',
+      // userID:'111186676244625461692',
+      // blackList:'profil|scrapbook|Forhomepage',
       
+      
+      itemsBaseURL:             'https://source.unsplash.com/',
+      items: [
+        {
+          src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
+          title: 'by Roksolana Zasiadko',
+          kind: 'image', ID=1, albumID = 0
+        },
+        {
+          src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
+          title: 'by Scott Webb',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/300x200',
+          title: 'by Matthew Wiebe',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/154x200',
+          title: 'by María Victoria Heredia Reyes',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'FhHGPO3aMsU', srct: 'FhHGPO3aMsU/300x200',
+          title: 'by María Matteo Paganelli',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'uDAA35_fzcs', srct: 'uDAA35_fzcs/300x200',
+          title: 'by Elijah Hail',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'IJ25m7fXqtk', srct: 'IJ25m7fXqtk/300x200',
+          title: 'by Rodion Kutsaev',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'E9PJO_vL3E8', srct: 'E9PJO_vL3E8/396x200',
+          title: 'by Todd Quackenbush',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: '8jqna7aA-vs', srct: '8jqna7aA-vs/300x200',
+          title: 'by Abigail Keenan',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'Dwheufds6kQ', srct: 'Dwheufds6kQ/300x200',
+          title: 'by Joshua Earle',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'v41pwp_RRJU', srct: 'v41pwp_RRJU/300x200',
+          title: 'by Matthew Wiebe',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'DwTZwZYi9Ww', srct: 'DwTZwZYi9Ww/267x200',
+          title: 'by Ilham Rahmansyah',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: '2FrX56QL7P8', srct: '2FrX56QL7P8/300x200',
+          title: 'by Alexander Shustov',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'pwaaqfoMibI', srct: 'pwaaqfoMibI/302x200',
+          title: 'by Tina Rataj',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'CMOa3H1SXG0', srct: 'CMOa3H1SXG0/133x200',
+          title: 'byChristopher Sardegna',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'rHv6C-WTOls', srct: 'rHv6C-WTOls/300x200',
+          title: 'by Ali Inay',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: '5tniytQs68E', srct: '5tniytQs68E/355x200',
+          title: 'by Lechon Kirb',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: '2TlAsvhqiL0', srct: '2TlAsvhqiL0/300x200',
+          title: 'by Eutah Mizushima',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'hiAdjnXZxl8', srct: 'hiAdjnXZxl8/300x200',
+          title: 'by Benjamin Combs',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'J8k-gzI0Zy0', srct: 'J8k-gzI0Zy0/326x200',
+          title: 'by Linh Nguyen',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 'yvx7LSZSzeo', srct: 'yvx7LSZSzeo/300x200',
+          title: 'by Lechon Kirb',
+          kind: 'image', ID=2, albumID = 0
+        },
+        {
+          src: 's00F6-W_OQ8', srct: 's00F6-W_OQ8/300x200',
+          title: 'by Joshua Earle',
+          kind: 'image', ID=2, albumID = 0
+        },
+      ],
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
       thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
