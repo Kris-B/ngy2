@@ -23,7 +23,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
 ##### By buying a pro license you support the future development of nanoGALLERY2. It is much appreciated!
 <br>
 
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
+<div style="border: 10px solid #B2E16A;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TR6MVMB9FFBXL">
     <span style="font-size:1.2rem;">Website License</span>
@@ -35,7 +35,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
   </div>
 </div>
 <span></span>
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
+<div style="border: 10px solid #B2E16A;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76ATCDDEA32GG">
     <span style="font-size:1.2rem;">OEM License</span>
@@ -47,7 +47,7 @@ Purchasing accepts most credit cards and takes seconds. Once purchased, you'll r
   </div>
 </div>
 <span></span>
-<div style="border: 2px solid #54840C;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
+<div style="border: 10px solid #B2E16A;border-radius: 5px;position:relative;padding:10px;width:80%;margin:auto;">
   <div style="display:blocks;">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RLEB2V7XHD2C4">
     <span style="font-size:1.2rem;">Donator License</span>
