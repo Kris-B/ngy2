@@ -3,18 +3,11 @@ layout: page
 title: Quick start
 categories: firststeps
 ---
-<br>
 
-<h4>Select a method:</h4>
-{% for post in site.categories.firststeps %} 
-  pipo
-  <a markdown="0" class="btn" href="{{ site.url }}{{ post.url }}">{{ post.title }} </a> &nbsp; 
-{% endfor %}
-  
 
-### First steps
+# First steps
 
-Follow these simple steps to add a gallery to your page. We'll first use the inline method.
+Follow these simple steps to add a gallery to your page. <b>We'll first use the inline method</b>.
   
   
 #### 1. Get the script
@@ -138,4 +131,103 @@ Here's a full working HTML template.
 </script>
 
 
+<br>
 
+------------------
+
+<br>
+
+
+# First steps - use an online photo sharing website
+
+In this second example, we'll see how to get images from <b>Flickr</b> using my own user ID `34858669@N00`.  
+To retrieve your personal Flickr user ID, use this page -> [Flickr userID](http://www.flickr.com/services/api/explore/flickr.people.findByUsername)
+
+#### 1. Get the script
+
+#### 2. Include it in the ```<head>``` of your page
+
+#### 3. Setup your HTML and initialize the nanoGALLERY2 script
+
+~~~ javascript
+  <body>
+    <!-- THE MARKUP -->
+    <div id="myNanoGalleryFlickr"></div>
+    
+    <!-- CALL THE GALLERY -->
+    <script>
+      $(document).ready(function () {
+        $("#myNanoGalleryFlickr").nanoGallery({
+          kind:     'flickr',
+          userID:   '34858669@N00'      // replace this value with your own user ID
+        });
+      });
+    </script>
+  </body>
+~~~
+
+### Example with Flickr  
+
+Here's a full working HTML template to display your Flickr images.
+
+~~~ javascript
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>my first nanoGALLERY2</title>
+  <meta name="description" content="my first nanoGALLERY2">
+  <meta name="author" content="Christophe Brisbois">
+
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/css/nanogallery.min.css" rel="stylesheet">
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.0/jquery.nanogallery.min.js"></script>  
+
+</head>
+
+<body>
+  <h1>my first gallery with nanoGALLERY2.</h1>
+  
+  <div id="myNanoGalleryFlickr"></div>
+
+  <script>
+    $(document).ready(function () {
+      jQuery("#myNanoGalleryFlickr").nanoGallery({
+        itemsBaseURL:             'https://source.unsplash.com/',
+        thumbnailWidth:           'auto',
+        thumbnailHeight:          200,
+        thumbnailHoverEffect:     'imageScale150',
+        viewerDisplayLogo:        true,
+        thumbnailLabel: {           // options for thumbnailLabel
+          align:                  'center'
+        }
+      });
+    });  
+  </script>
+  
+</body>
+</html>
+~~~
+
+### Result:
+
+<div id="myNanoGalleryFlickr"></div>
+
+
+<script>
+  $(document).ready(function () {
+    jQuery("#myNanoGalleryFlickr").nanoGallery({
+          kind:     'flickr',
+          userID:   '34858669@N00'      // replace this value with your own user ID
+      thumbnailWidth:           200,
+      thumbnailHeight:          200,
+      thumbnailHoverEffect:     'imageScale150',
+      viewerDisplayLogo:        true,
+      thumbnailLabel: {           // options for thumbnailLabel
+        align:                  'center'
+      }
+    });
+  });  
+</script>
