@@ -18,8 +18,8 @@ Follow these simple steps to add a gallery to your page. We'll first use the inl
   
   
 #### 1. Get the script
-In this example, we'll use the [CDN](https://cdnjs.com/libraries/nanogallery) version  
-But you can also get the script from:  
+In this example, we'll use the [CDN](https://cdnjs.com/libraries/nanogallery) version.  
+You can also get the script from:  
 - [Github](https://github.com/Kris-B/nanoGALLERY/archive/v5.9.1.zip)  
 - npmjs: ```npm install nanogallery```  
 
@@ -59,8 +59,9 @@ jQUERY must be included, if not already present in your page.
   </body>
 ~~~
 
-  
+<br>
 ------------------
+<br>
 
 ### Example
 Here's a full working HTML template.
