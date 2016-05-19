@@ -22,115 +22,121 @@ text_rotator: true
       
       itemsBaseURL:             'https://source.unsplash.com/',
       items: [
+        // ################# album PEOPLE
+        {
+          src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
+          title: 'people',
+          kind: 'album', ID=1, albumID = 0
+        },
         {
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
           title: 'by Roksolana Zasiadko',
-          kind: 'image', ID=1, albumID = 0
+          kind: 'image', ID=1000, albumID = 1
         },
         {
           src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
           title: 'by Scott Webb',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1001, albumID: 1
         },
         {
           src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/300x200',
           title: 'by Matthew Wiebe',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1002, albumID: 1
         },
         {
           src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/154x200',
           title: 'by María Victoria Heredia Reyes',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1003, albumID: 1
         },
         {
           src: 'FhHGPO3aMsU', srct: 'FhHGPO3aMsU/300x200',
           title: 'by María Matteo Paganelli',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1004, albumID: 1
         },
         {
           src: 'uDAA35_fzcs', srct: 'uDAA35_fzcs/300x200',
           title: 'by Elijah Hail',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1004, albumID: 1
         },
         {
           src: 'IJ25m7fXqtk', srct: 'IJ25m7fXqtk/300x200',
           title: 'by Rodion Kutsaev',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1005, albumID: 1
         },
         {
           src: 'E9PJO_vL3E8', srct: 'E9PJO_vL3E8/396x200',
           title: 'by Todd Quackenbush',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1006, albumID: 1
         },
         {
           src: '8jqna7aA-vs', srct: '8jqna7aA-vs/300x200',
           title: 'by Abigail Keenan',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1007, albumID: 1
         },
         {
           src: 'Dwheufds6kQ', srct: 'Dwheufds6kQ/300x200',
           title: 'by Joshua Earle',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1008, albumID: 1
         },
         {
           src: 'v41pwp_RRJU', srct: 'v41pwp_RRJU/300x200',
           title: 'by Matthew Wiebe',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1009, albumID: 1
         },
         {
           src: 'DwTZwZYi9Ww', srct: 'DwTZwZYi9Ww/267x200',
           title: 'by Ilham Rahmansyah',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1010, albumID: 1
         },
         {
           src: '2FrX56QL7P8', srct: '2FrX56QL7P8/300x200',
           title: 'by Alexander Shustov',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1011, albumID: 1
         },
         {
           src: 'pwaaqfoMibI', srct: 'pwaaqfoMibI/302x200',
           title: 'by Tina Rataj',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1012, albumID: 1
         },
         {
           src: 'CMOa3H1SXG0', srct: 'CMOa3H1SXG0/133x200',
           title: 'byChristopher Sardegna',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1013, albumID: 1
         },
         {
           src: 'rHv6C-WTOls', srct: 'rHv6C-WTOls/300x200',
           title: 'by Ali Inay',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1014, albumID: 1
         },
         {
           src: '5tniytQs68E', srct: '5tniytQs68E/355x200',
           title: 'by Lechon Kirb',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1015, albumID: 1
         },
         {
           src: '2TlAsvhqiL0', srct: '2TlAsvhqiL0/300x200',
           title: 'by Eutah Mizushima',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1016, albumID: 1
         },
         {
           src: 'hiAdjnXZxl8', srct: 'hiAdjnXZxl8/300x200',
           title: 'by Benjamin Combs',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1017, albumID: 1
         },
         {
           src: 'J8k-gzI0Zy0', srct: 'J8k-gzI0Zy0/326x200',
           title: 'by Linh Nguyen',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1018, albumID: 1
         },
         {
           src: 'yvx7LSZSzeo', srct: 'yvx7LSZSzeo/300x200',
           title: 'by Lechon Kirb',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1019, albumID: 1
         },
         {
           src: 's00F6-W_OQ8', srct: 's00F6-W_OQ8/300x200',
           title: 'by Joshua Earle',
-          kind: 'image', ID=2, albumID = 0
+          kind: 'image', ID: 1020, albumID: 1
         },
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
