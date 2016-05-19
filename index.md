@@ -26,7 +26,7 @@ text_rotator: true
         {
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
           title: 'people',
-          kind: 'album', ID: 2, albumID: 0
+          kind: 'album', ID: 1, albumID: 0
         },
         {
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
