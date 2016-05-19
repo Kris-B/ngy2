@@ -28,17 +28,20 @@ text_rotator: true
           title: 'people',
           kind: 'album', ID: 1, albumID: 0
         },
+        /*
         {
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
           title: 'by Roksolana Zasiadko',
           ID: 1000, albumID: 1
         }
-/*
-{
+        */
+
+        {
           src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
           title: 'by Scott Webb',
           kind: 'image', ID: 1001, albumID: 1
-        },
+        }
+        /*,
         {
           src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/300x200',
           title: 'by Matthew Wiebe',
