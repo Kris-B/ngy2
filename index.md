@@ -37,8 +37,7 @@ text_rotator: true
           src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
           title: 'by Scott Webb',
           kind: 'image', ID: 1001, albumID: 1
-        }
-        /*,
+        },
         {
           src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/300x200',
           title: 'by Matthew Wiebe',
@@ -139,12 +138,12 @@ text_rotator: true
           title: 'by Joshua Earle',
           kind: 'image', ID: 1021, albumID: 1
         }
-        */
+        
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
       thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
-      thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la300 xl300',
+      thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la200 xl200',
       thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', 'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       
       //maxWidth:948,
