@@ -147,7 +147,7 @@ text_rotator: true
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
       thumbnailL1Width:'240 xs100C sm100C', thumbnailL1Height:'160 xs100C sm100C',
-      thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la250 xl290',
+      thumbnailWidth:'auto', thumbnailHeight:'200 xs80 sm150 la300 xl300',
       thumbnailHoverEffect:[{'name':'imageScale150', 'duration':700},{'name':'labelAppear75', 'duration':400},{'name':'descriptionAppear', 'duration':1000}],
       
       //maxWidth:948,
