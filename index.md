@@ -32,8 +32,9 @@ text_rotator: true
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
           title: 'by Roksolana Zasiadko',
           kind: 'image', ID: 1000, albumID: 1
-        },
-        {
+        }
+/*
+{
           src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
           title: 'by Scott Webb',
           kind: 'image', ID: 1001, albumID: 1
@@ -138,6 +139,7 @@ text_rotator: true
           title: 'by Joshua Earle',
           kind: 'image', ID: 1021, albumID: 1
         }
+        */
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
