@@ -31,7 +31,7 @@ text_rotator: true
         {
           src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
           title: 'by Roksolana Zasiadko',
-          kind: 'image', ID: 1000, albumID: 1
+          ID: 1000, albumID: 1
         }
 /*
 {
