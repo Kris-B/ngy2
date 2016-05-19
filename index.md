@@ -137,7 +137,7 @@ text_rotator: true
           src: 's00F6-W_OQ8', srct: 's00F6-W_OQ8/300x200',
           title: 'by Joshua Earle',
           kind: 'image', ID: 1021, albumID: 1
-        },
+        }
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
