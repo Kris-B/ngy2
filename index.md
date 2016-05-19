@@ -37,7 +37,7 @@ text_rotator: true
         */
 
         {
-          src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200', imgtHeight: 200, imgtWidth: 300,
+          src: 'uAgLGG1WBd4', srct: 'uAgLGG1WBd4/300x200',
           title: 'by Scott Webb',
           kind: 'image', ID: 1001, albumID: 2
         }
