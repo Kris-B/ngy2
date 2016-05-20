@@ -249,6 +249,109 @@ text_rotator: true
         
         
         
+        // ################# album OCEANS
+        {
+          src: 'hoCXpPUMCoE', srct: 'hoCXpPUMCoE/266x200',
+          title: 'oceans',
+          kind: 'album', ID: 3, albumID: 0
+        },
+        {
+          src: 'hoCXpPUMCoE', srct: 'hoCXpPUMCoE/266x200',
+          title: 'by Darrell Cassell',
+          ID: 3000, albumID: 3
+        },
+        {
+          src: 'n3t4fIuVzLA', srct: 'n3t4fIuVzLA/300x200',
+          title: 'by Cameron Kirby',
+          ID: 3001, albumID: 3
+        },
+        {
+          src: 'yEOCA6oiVqg', srct: 'yEOCA6oiVqg/355x200',
+          title: 'by Tim Marshall',
+          ID: 3002, albumID: 3
+        },
+        {
+          src: 'xcC5ozHk_N8', srct: 'xcC5ozHk_N8/300x200',
+          title: 'by Joseph Barrientos',
+          ID: 3003, albumID: 3
+        },
+        {
+          src: 'hBYzBU1xP6s', srct: 'hBYzBU1xP6s/298x200',
+          title: 'by Barn Images',
+          ID: 3004, albumID: 3
+        },
+        {
+          src: '-YMhg0KYgVc', srct: '-YMhg0KYgVc/300x200',
+          title: 'by Clem Onojeghuo',
+          ID: 3005, albumID: 3
+        },
+        {
+          src: 'mtNweauBsMQ', srct: 'mtNweauBsMQ/300x200',
+          title: 'by Viktor Jakovlev',
+          ID: 3006, albumID: 3
+        },
+        {
+          src: '_rsGm7nob3w', srct: '_rsGm7nob3w/300x200',
+          title: 'by Lee Miller',
+          ID: 3007, albumID: 3
+        },
+        {
+          src: 'UklXbPE-Hos', srct: 'UklXbPE-Hos/300x200',
+          title: 'by Joseph Barrientos',
+          ID: 3008, albumID: 3
+        },
+        {
+          src: 'x8R2oSWZRSE', srct: 'x8R2oSWZRSE/300x200',
+          title: 'by Annie Spratt',
+          ID: 3009, albumID: 3
+        },
+        {
+          src: 'x7HJdJZqplo', srct: 'x7HJdJZqplo/300x200',
+          title: 'by Anna Popović',
+          ID: 3010, albumID: 3
+        },
+        {
+          src: 'sYegwYtIqJg', srct: 'sYegwYtIqJg/300x200',
+          title: 'by Michael Durana',
+          ID: 3011, albumID: 3
+        },
+        {
+          src: 'pj9cRQ0wTDU', srct: 'pj9cRQ0wTDU/300x200',
+          title: 'by Andrew Phillips',
+          ID: 3012, albumID: 3
+        },
+        {
+          src: 'l61smgU3Y7w', srct: 'l61smgU3Y7w/266x200',
+          title: 'by Jeremy Bishop',
+          ID: 3013, albumID: 3
+        },
+        {
+          src: '1-C334jLxG0', srct: '1-C334jLxG0/300x200',
+          title: 'by Stefan Kunze',
+          ID: 3014, albumID: 3
+        },
+        {
+          src: 'yjR69rDfivw', srct: 'yjR69rDfivw/300x200',
+          title: 'by Simon Schmitt',
+          ID: 3015, albumID: 3
+        },
+        {
+          src: 'PFy-3PaHT_M', srct: 'PFy-3PaHT_M/355x200',
+          title: 'by Austin Schmid',
+          ID: 3016, albumID: 3
+        },
+        {
+          src: 'ywnnwzcdR5o', srct: 'ywnnwzcdR5o/300x200',
+          title: 'by Jonathan Bean',
+          ID: 3017, albumID: 3
+        },
+        {
+          src: '6p6WDodvR2Y', srct: '6p6WDodvR2Y/300x200',
+          title: 'by Darrell Cassell',
+          ID: 3018, albumID: 3
+        }
+
+        
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
       //thumbnailL1Width:'240C xs100C sm100C', thumbnailL1Height:'160C xs100C sm100C',
