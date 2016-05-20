@@ -24,7 +24,7 @@ text_rotator: true
       items: [
         // ################# album PEOPLE
         {
-          src: 'LyeduBb2Auk', srct: 'LyeduBb2Auk/133x200',
+          src: '2FrX56QL7P8', srct: '2FrX56QL7P8/300x200',
           title: 'people',
           kind: 'album', ID: 1, albumID: 0
         },
@@ -42,11 +42,6 @@ text_rotator: true
           src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/300x200',
           title: 'by Matthew Wiebe',
           kind: 'image', ID: 1002, albumID: 1
-        },
-        {
-          src: 'tBtuxtLvAZs', srct: 'tBtuxtLvAZs/154x200',
-          title: 'by María Victoria Heredia Reyes',
-          kind: 'image', ID: 1003, albumID: 1
         },
         {
           src: 'FhHGPO3aMsU', srct: 'FhHGPO3aMsU/300x200',
@@ -137,7 +132,122 @@ text_rotator: true
           src: 's00F6-W_OQ8', srct: 's00F6-W_OQ8/300x200',
           title: 'by Joshua Earle',
           kind: 'image', ID: 1021, albumID: 1
+        },
+        {
+          src: 'Ixp4YhCKZkI', srct: 'Ixp4YhCKZkI/355x200',
+          title: 'by Steve Carter',
+          kind: 'image', ID: 1022, albumID: 1
+        },
+        
+        
+        // ################# album CITIES
+        {
+          src: '-icmOdYWXuQ', srct: '-icmOdYWXuQ/300x200',
+          title: 'cities',
+          kind: 'album', ID: 2, albumID: 0
+        },
+        {
+          src: '-icmOdYWXuQ', srct: '-icmOdYWXuQ/300x200',
+          title: 'by Kevin Young',
+          ID: 2000, albumID: 2
+        },
+        {
+          src: 'T72-kQyQxtA', srct: 'T72-kQyQxtA/222x200',
+          title: 'by Jeffrey Swanson',
+          ID: 2001, albumID: 2
+        },
+        {
+          src: 'zCevd81eJDU', srct: 'zCevd81eJDU/300x200',
+          title: 'by Alexandre Perotto',
+          ID: 2002, albumID: 2
+        },
+        {
+          src: 'VviFtDJakYk', srct: 'VviFtDJakYk/300x200',
+          title: 'by Matthew Wiebe',
+          ID: 2003, albumID: 2
+        },
+        {
+          src: '688Fna1pwOQ', srct: '688Fna1pwOQ/297x200',
+          title: 'by Julien Moreau',
+          ID: 2004, albumID: 2
+        },
+        {
+          src: 'Y7y7fe8hrh0', srct: 'Y7y7fe8hrh0/300x200',
+          title: 'by Nirzar Pangarkar',
+          ID: 2005, albumID: 2
+        },
+        {
+          src: 'bITjK6W2Alw', srct: 'bITjK6W2Alw/300x200',
+          title: 'by valor kopeny',
+          ID: 2006, albumID: 2
+        },
+        {
+          src: 'TZCehSn-T-o', srct: 'TZCehSn-T-o/300x200',
+          title: 'by Anders Jildén',
+          ID: 2007, albumID: 2
+        },
+        {
+          src: '71cd1rWqO8M', srct: '71cd1rWqO8M/356x200',
+          title: 'by Lili Popper',
+          ID: 2008, albumID: 2
+        },
+        {
+          src: 'QmemudqzrXQ', srct: 'QmemudqzrXQ/303x200',
+          title: 'by Nick Scheerbart',
+          ID: 2009, albumID: 2
+        },
+        {
+          src: 'UB7YmsJTEvE', srct: UB7YmsJTEvE/302x200',
+          title: 'by Steve Richey',
+          ID: 2010, albumID: 2
+        },
+        {
+          src: 'VjmlDjePHjE', srct: 'VjmlDjePHjE/133x200',
+          title: 'by Mihail Ribkin',
+          ID: 2011, albumID: 2
+        },
+        {
+          src: 'nF4lk-9IJH8', srct: 'nF4lk-9IJH8/133x200',
+          title: 'by Anthony DELANOIX',
+          ID: 2012, albumID: 2
+        },
+        {
+          src: 'NvGwP_hw1iw', srct: 'NvGwP_hw1iw/300x200',
+          title: 'by Joshua K. Jackson',
+          ID: 2013, albumID: 2
+        },
+        {
+          src: 'utwYoEu9SU8', srct: 'utwYoEu9SU8/354x200',
+          title: 'by freddie marriage',
+          ID: 2014, albumID: 2
+        },
+        {
+          src: 'bIQiMWxX_WU', srct: 'bIQiMWxX_WU/266x200',
+          title: 'by sergee bee',
+          ID: 2015, albumID: 2
+        },
+        {
+          src: 'KBX9XHk266s', srct: 'KBX9XHk266s/300x200',
+          title: 'by Vladimir Kudinov',
+          ID: 2016, albumID: 2
+        },
+        {
+          src: '2p1HOcpi14U', srct: '2p1HOcpi14U/300x200',
+          title: 'by Hide Obara',
+          ID: 2017, albumID: 2
+        },
+        {
+          src: 'bLppF5sbXPo', srct: 'bLppF5sbXPo/300x200',
+          title: 'by enjamin Combs',
+          ID: 2018, albumID: 2
+        },
+        {
+          src: 'v4ZUGlrdVAA', srct: 'v4ZUGlrdVAA/300x200',
+          title: 'by Anthony Indraus',
+          ID: 2019, albumID: 2
         }
+        
+        
         
       ],
       //thumbnailWidth:300, thumbnailHeight:200,
