@@ -251,7 +251,7 @@ text_rotator: true
         
         // ################# album OCEANS
         {
-          src: 'hoCXpPUMCoE', srct: 'hoCXpPUMCoE/266x200',
+          src: 'UklXbPE-Hos', srct: 'UklXbPE-Hos/300x200',
           title: 'oceans',
           kind: 'album', ID: 3, albumID: 0
         },
