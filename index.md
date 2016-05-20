@@ -197,7 +197,7 @@ text_rotator: true
           ID: 2009, albumID: 2
         },
         {
-          src: 'UB7YmsJTEvE', srct: UB7YmsJTEvE/302x200',
+          src: 'UB7YmsJTEvE', srct: 'UB7YmsJTEvE/302x200',
           title: 'by Steve Richey',
           ID: 2010, albumID: 2
         },
