@@ -245,7 +245,7 @@ text_rotator: true
           src: 'v4ZUGlrdVAA', srct: 'v4ZUGlrdVAA/300x200',
           title: 'by Anthony Indraus',
           ID: 2019, albumID: 2
-        }
+        },
         
         
         
